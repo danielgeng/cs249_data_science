@@ -1,0 +1,6 @@
+gamma,9,2,
+normal,4,2,
+lognormal,0,1,
+exponential,1,     <<== NOTE:  this is equivalent to  gamma,1,1  and also to  weibull,1,1;  any of these is OK.
+chi-squared,5,,
+logistic,3,2,
