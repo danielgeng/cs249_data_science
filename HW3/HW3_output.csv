@@ -1,0 +1,8 @@
+54.221,qda( cut ~ ., data=my.training.set )
+90.472,lm(price ~ ., data=my.training.set )
+97.879,lm(log10(price) ~ ., data=my.training.set)
+97.982,glm(I(price>1500) ~ ., data=my.training.set, family=binomial)
+60.349,qda( cut ~ price + table + color + clarity, data=my.training.set )
+90.482,lm(price ~ carat + color + clarity + x + cut + depth + table, data=my.training.set)
+97.891,lm(log10(price) ~ carat + color + clarity + x + cut + depth + table, data=my.training.set)
+97.99,glm(I(price>1500) ~ carat+cut+color+clarity+depth+table+x+y, data=my.training.set, family = binomial)
