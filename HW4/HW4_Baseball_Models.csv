@@ -1,0 +1,2 @@
+0.7915,"rlm(log10(max_salary) ~ AB+R+H+log10(X2B+5)+X3B+HR+RBI+log10(SB+1)+CS+BB+BA+PA+exp(SlugPct)+BABIP+log10(startYear)+totalYears+height+throws+log10(OPS+0.01),data = RelevantInformation)"
+0.9265,"randomForest(HallOfFame ~ AB+R+H+X2B+X3B+HR+RBI+SB+CS+BB+BA+PA+SlugPct+OBP+BABIP+weight+height+throws+OPS,data = RelevantInformation)"
