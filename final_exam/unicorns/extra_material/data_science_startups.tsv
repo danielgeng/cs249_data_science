@@ -1,0 +1,48 @@
+name	permalink	homepage_url	category_list	funding_total_usd	status	country_code	state_code	region	city	funding_rounds	founded_at	first_funding_at	last_funding_at
+Aerospike	/organization/aerospike	http://www.aerospike.com	Analytics|Big Data|Databases|Real Time	22000000	operating	USA	CA	SF Bay Area	Mountain View	3	2009-02-25	2011-03-30	2014-06-24
+Airtable	/organization/airtable	https://airtable.com/	Visualization|Mobile	10600000	operating	USA	CA	SF Bay Area	San Francisco	3	2012-01-01	2013-03-18	2015-06-29
+Alation	/organization/alation	http://alation.com/	Big Data|Databases|IT	9000000	operating	USA	CA	SF Bay Area	Redwood City	1	2012-01-01	2015-03-04	2015-03-04
+Altiscale	/organization/altiscale	http://www.altiscale.com	Big Data	42000000	operating	USA	CA	SF Bay Area	Palo Alto	2	2012-01-01	2013-06-13	2014-11-26
+Apptimize	/organization/apptimize	http://apptimize.com	Enterprise Software	6100000	operating	USA	CA	SF Bay Area	Menlo Park	4	2013-01-01	2013-06-01	2015-02-17
+Ayasdi	/organization/ayasdi	http://www.ayasdi.com	Analytics|Big Data|Visualization|Machine Learning	106348982	operating	USA	CA	SF Bay Area	Menlo Park	7	2008-01-01	2010-09-01	2015-03-25
+BigPanda	/organization/bigpanda	http://bigpanda.io/	Development Platforms|Infrastructure|Enterprise Software|IT|SaaS	23000000	operating	USA	CA	SF Bay Area	Mountain View	2	2012-01-01	2014-10-28	2015-10-01
+BloomReach	/organization/bloomreach	http://www.bloomreach.com	Enterprise Software	41000000	operating	USA	CA	SF Bay Area	Mountain View	3	2009-01-01	2008-09-01	2012-10-18
+BrightPoint Security	/organization/vorstack-corporation	http://www.brightpointsecurity.com	Analytics|Infrastructure|Security|Software	8400000	operating	USA	CA	SF Bay Area	San Mateo	2	2011-05-01	2011-09-07	2014-04-29
+CloudPhysics	/organization/cloudphysics	http://www.cloudphysics.com	Analytics|Development Platforms	27500000	operating	USA	CA	SF Bay Area	Mountain View	4	2011-01-01	2011-11-18	2014-06-23
+CloudVelox	/organization/cloudvelocity	http://www.cloudvelox.com/	Infrastructure|Data Integration|Enterprise Software	33000000	operating	USA	CA	SF Bay Area	Santa Clara	3	2010-12-01	2012-12-13	2015-02-12
+Cloudera	/organization/cloudera	http://www.cloudera.com	Analytics|Big Data|Enterprise Software|Search	1041000000	operating	USA	CA	SF Bay Area	Palo Alto	8	2008-10-13	2009-03-16	2014-09-01
+Couchbase	/organization/couchbase	http://www.couchbase.com	Analytics|Big Data|Databases|Enterprise Software	116000000	operating	USA	CA	SF Bay Area	Mountain View	6	2009-01-02	2009-01-01	2014-06-26
+DataStax	/organization/datastax	http://datastax.com	Big Data|Databases	189700000	operating	USA	CA	SF Bay Area	Santa Clara	6	2010-03-31	2010-04-23	2014-09-04
+DataTorrent	/organization/datatorrent	https://www.datatorrent.com/	Analytics|Big Data	23750000	operating	USA	CA	SF Bay Area	Santa Clara	3	2012-01-01	2012-05-01	2015-04-28
+Databricks	/organization/databricks	http://databricks.com	Analytics	47000000	operating	USA	CA	SF Bay Area	San Francisco	2	2013-01-01	2013-09-25	2014-06-30
+Datameer	/organization/datameer	http://www.datameer.com	Analytics|Big Data|Data Integration|Visualization|Enterprise Software	76750000	operating	USA	CA	SF Bay Area	San Francisco	5	2009-09-01	2010-04-15	2015-08-18
+Docker	/organization/docker	https://www.docker.com	Development Platforms|Software	180000000	operating	USA	CA	SF Bay Area	San Francisco	5	2010-01-01	2011-03-15	2015-11-09
+Elastic	/organization/elasticsearch	https://www.elastic.co	Infrastructure|Development Platforms|Real Time|Search|Software	104000000	operating	USA	CA	SF Bay Area	Mountain View	3	2012-02-01	2012-11-08	2014-06-05
+Feedzai	/organization/feedzai	http://www.feedzai.com	Software	26132243	operating	USA	CA	SF Bay Area	San Mateo	4	2011-10-18	2011-05-06	2015-05-18
+Fortscale	/organization/fortscale	http://www.fortscale.com	Analytics|Big Data|Machine Learning|Security|Software	16000000	operating	USA	CA	SF Bay Area	San Francisco	3	2012-01-01	2013-02-01	2015-11-24
+Gild	/organization/gild	http://www.gild.com	Recruiting	25900000	operating	USA	CA	SF Bay Area	San Francisco	4	2011-11-01	2011-08-04	2014-06-04
+HashiCorp	/organization/hashicorp	https://hashicorp.com	Development Platforms|Enterprise Software	10000000	operating	USA	CA	SF Bay Area	San Francisco	1	2010-01-01	2014-12-10	2014-12-10
+Hortonworks	/organization/hortonworks	http://www.hortonworks.com	Big Data|Enterprise Software|Search	248000000	ipo	USA	CA	SF Bay Area	Santa Clara	5	2011-06-01	2011-06-01	2014-07-24
+Illumio	/organization/illumio	http://www.illumio.com	Infrastructure|Enterprise Software|Security	142500000	operating	USA	CA	SF Bay Area	Sunnyvale	3	2013-01-01	2013-01-14	2015-04-14
+MapR Technologies	/organization/mapr-technologies	http://www.mapr.com	Analytics|Big Data|Infrastructure|Enterprise Software|Development Platforms	173999994	operating	USA	CA	SF Bay Area	San Jose	5	2009-01-01	2009-07-22	2014-06-30
+MemSQL	/organization/memsql	http://www.memsql.com	Analytics|Databases	45000000	operating	USA	CA	SF Bay Area	San Francisco	4	2011-01-01	2011-07-12	2014-09-26
+Menlo Security	/organization/menlo-security	https://www.menlosecurity.com/	Networking|Security	35000000	operating	USA	CA	SF Bay Area	Menlo Park	2	2013-01-01	2014-11-18	2015-06-08
+Nuevora	/organization/nuevora	http://www.nuevora.com	Analytics	2250000	operating	USA	CA	SF Bay Area	San Ramon	1		2012-05-07	2012-05-07
+ParStream	/organization/parstream	http://www.parstream.com	Analytics|Big Data|Databases|Real Time	13600000	acquired	USA	CA	SF Bay Area	Cupertino	2	2011-01-01	2012-08-14	2013-10-17
+Paxata	/organization/paxata	http://www.paxata.com	Data Integration|Software	27492752	operating	USA	CA	SF Bay Area	Redwood City	3	2012-05-29	2012-11-14	2015-09-09
+PernixData	/organization/pernixdata	http://pernixdata.com	Enterprise Software	62000000	operating	USA	CA	SF Bay Area	San Jose	3	2012-01-01	2012-01-01	2014-08-20
+Platfora	/organization/platfora	http://www.platfora.com	Analytics|Software	65200000	operating	USA	CA	SF Bay Area	San Mateo	3	2011-06-01	2011-09-08	2014-03-19
+Saisei	/organization/saisei-networks	http://www.saisei.com/	Software	14253858	operating	USA	CA	SF Bay Area	Sunnyvale	4	2013-01-01	2013-01-01	2015-10-07
+ScaleArc	/organization/scalearc	http://scalearc.com	Analytics|Software	23710000	operating	USA	CA	SF Bay Area	Santa Clara	3	2009-01-01	2011-12-20	2013-01-10
+Skyport Systems	/organization/skyport-systems	http://www.skyportsystems.com/	IT	30000000	operating	USA	CA	SF Bay Area	Mountain View	1	2013-01-01	2015-04-15	2015-04-15
+Skytree	/organization/skytree	http://www.skytree.net	Analytics|Big Data|Machine Learning	21575000	operating	USA	CA	SF Bay Area	San Jose	4	2012-01-01	2012-02-23	2013-04-30
+Snowflake Computing	/organization/snowflake-computing	http://www.snowflake.net/	Software	65000000	operating	USA	CA	SF Bay Area	San Mateo	2	2012-01-01	2014-10-21	2015-06-23
+Splice Machine	/organization/splice-machine	http://www.splicemachine.com	Analytics	22000000	operating	USA	CA	SF Bay Area	San Francisco	4	2012-01-01	2012-10-17	2015-11-16
+StreamSets	/organization/streamsets	https://streamsets.com/	Software	12500000	operating	USA	CA	SF Bay Area	San Francisco	1	2014-01-01	2015-09-24	2015-09-24
+Stringify	/organization/stringify	http://stringify.com	Software	6300000	operating	USA	CA	SF Bay Area	Los Gatos	1	2014-01-01	2015-04-21	2015-04-21
+Sumo Logic	/organization/sumo-logic	http://www.sumologic.com	Analytics	155000000	operating	USA	CA	SF Bay Area	Redwood City	4	2010-01-01	2012-01-31	2015-06-01
+Tidemark	/organization/tidemark	http://www.tidemark.com	Analytics|Infrastructure|Enterprise Software|SaaS	118370901	operating	USA	CA	SF Bay Area	Redwood City	8	2009-01-01	2010-10-07	2015-06-16
+Trifacta	/organization/trifacta	http://trifacta.com	Software	41300000	operating	USA	CA	SF Bay Area	San Francisco	3	2012-01-01	2012-10-04	2014-05-29
+Versa Networks	/organization/versa-networks	http://www.versa-networks.com	Software	57350000	operating	USA	CA	SF Bay Area	Santa Clara	2	2012-09-01	2012-11-27	2015-11-10
+Viptela	/organization/viptela	http://www.viptela.com	Networking	33500000	operating	USA	CA	SF Bay Area	San Jose	1	2012-02-01	2014-03-11	2014-03-11
+Zugata	/organization/zugata	http://www.zugata.com/	Recruiting|Mobile|Software	3200000	operating	USA	CA	SF Bay Area	Palo Alto	1	2014-12-01	2015-10-13	2015-10-13

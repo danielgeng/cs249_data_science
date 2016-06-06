@@ -1,0 +1,931 @@
+Company	Investor	category_list	raised_amount_usd	Valuation ($B)	funded_at	Country	Industry	Select Investors
+17zuoye	DST Global	Education|Language Learning	20000000	Edtech	China	Temasek Holdings, H Capital, Shunwei Fund
+17zuoye	H Capital	Education|Language Learning	100000000	Edtech	China	Temasek Holdings, H Capital, Shunwei Fund
+17zuoye	H Capital	Education|Language Learning	20000000	Edtech	China	Temasek Holdings, H Capital, Shunwei Fund
+17zuoye	Shunwei Capital	Education|Language Learning	10000000	Edtech	China	Temasek Holdings, H Capital, Shunwei Fund
+17zuoye	Shunwei Capital	Education|Language Learning	100000000	Edtech	China	Temasek Holdings, H Capital, Shunwei Fund
+17zuoye	Shunwei Capital	Education|Language Learning	20000000	Edtech	China	Temasek Holdings, H Capital, Shunwei Fund
+17zuoye	Shunwei Capital	Education|Language Learning	5000000	Edtech	China	Temasek Holdings, H Capital, Shunwei Fund
+17zuoye	Temasek Holdings	Education|Language Learning	100000000	Edtech	China	Temasek Holdings, H Capital, Shunwei Fund
+17zuoye	Tiger Global Management	Education|Language Learning	20000000	Edtech	China	Temasek Holdings, H Capital, Shunwei Fund
+17zuoye	Wang Qiang	Education|Language Learning	10000000	Edtech	China	Temasek Holdings, H Capital, Shunwei Fund
+17zuoye	Xu Xiaoping	Education|Language Learning	10000000	Edtech	China	Temasek Holdings, H Capital, Shunwei Fund
+17zuoye	Yuri Milner	Education|Language Learning	100000000	Edtech	China	Temasek Holdings, H Capital, Shunwei Fund
+3D Robotics	Atlantic Bridge	Drones|Manufacturing	14000000	Drones/Satellites	USA	Foundry Group, Maveron, Mayfield Fund	
+3D Robotics	Atlantic Bridge	Drones|Manufacturing	50000000	Drones/Satellites	USA	Foundry Group, Maveron, Mayfield Fund	
+3D Robotics	Christopher Michel	Drones|Manufacturing	5000000	Drones/Satellites	USA	Foundry Group, Maveron, Mayfield Fund	
+3D Robotics	Danhua Capital	Drones|Manufacturing	14000000	Drones/Satellites	USA	Foundry Group, Maveron, Mayfield Fund	
+3D Robotics	Foundry Group	Drones|Manufacturing	30000000	Drones/Satellites	USA	Foundry Group, Maveron, Mayfield Fund	
+3D Robotics	Foundry Group	Drones|Manufacturing	50000000	Drones/Satellites	USA	Foundry Group, Maveron, Mayfield Fund	
+3D Robotics	Mayfield Fund	Drones|Manufacturing	30000000	Drones/Satellites	USA	Foundry Group, Maveron, Mayfield Fund	
+3D Robotics	Mayfield Fund	Drones|Manufacturing	50000000	Drones/Satellites	USA	Foundry Group, Maveron, Mayfield Fund	
+3D Robotics	O'Reilly AlphaTech Ventures	Drones|Manufacturing	30000000	Drones/Satellites	USA	Foundry Group, Maveron, Mayfield Fund	
+3D Robotics	O'Reilly AlphaTech Ventures	Drones|Manufacturing	5000000	Drones/Satellites	USA	Foundry Group, Maveron, Mayfield Fund	
+3D Robotics	O'Reilly AlphaTech Ventures	Drones|Manufacturing	50000000	Drones/Satellites	USA	Foundry Group, Maveron, Mayfield Fund	
+3D Robotics	Ooga Labs	Drones|Manufacturing	30000000	Drones/Satellites	USA	Foundry Group, Maveron, Mayfield Fund	
+3D Robotics	Qualcomm Ventures	Drones|Manufacturing	14000000	Drones/Satellites	USA	Foundry Group, Maveron, Mayfield Fund	
+3D Robotics	Qualcomm Ventures	Drones|Manufacturing	50000000	Drones/Satellites	USA	Foundry Group, Maveron, Mayfield Fund	
+3D Robotics	SK Ventures	Drones|Manufacturing	30000000	Drones/Satellites	USA	Foundry Group, Maveron, Mayfield Fund	
+3D Robotics	SK Ventures	Drones|Manufacturing	5000000	Drones/Satellites	USA	Foundry Group, Maveron, Mayfield Fund	
+3D Robotics	SK Ventures	Drones|Manufacturing	50000000	Drones/Satellites	USA	Foundry Group, Maveron, Mayfield Fund	
+3D Robotics	SanDisk Ventures	Drones|Manufacturing	14000000	Drones/Satellites	USA	Foundry Group, Maveron, Mayfield Fund	
+3D Robotics	SanDisk Ventures	Drones|Manufacturing	50000000	Drones/Satellites	USA	Foundry Group, Maveron, Mayfield Fund	
+3D Robotics	Shea Ventures	Drones|Manufacturing	50000000	Drones/Satellites	USA	Foundry Group, Maveron, Mayfield Fund	
+3D Robotics	True Ventures	Drones|Manufacturing	30000000	Drones/Satellites	USA	Foundry Group, Maveron, Mayfield Fund	
+3D Robotics	True Ventures	Drones|Manufacturing	5000000	Drones/Satellites	USA	Foundry Group, Maveron, Mayfield Fund	
+3D Robotics	True Ventures	Drones|Manufacturing	50000000	Drones/Satellites	USA	Foundry Group, Maveron, Mayfield Fund	
+3D Robotics	WestSummit Capital	Drones|Manufacturing	14000000	Drones/Satellites	USA	Foundry Group, Maveron, Mayfield Fund	
+3D Robotics	WestSummit Capital	Drones|Manufacturing	50000000	Drones/Satellites	USA	Foundry Group, Maveron, Mayfield Fund	
+Airware	Andreessen Horowitz	Aerospace|Drones|Enterprise Software|Robotics	12200000	Drones/Satellites	USA	RRE Ventures, Google Ventures, First Round Capital	
+Airware	Andreessen Horowitz	Aerospace|Drones|Enterprise Software|Robotics	25000000	Drones/Satellites	USA	RRE Ventures, Google Ventures, First Round Capital	
+Airware	Felicis Ventures	Aerospace|Drones|Enterprise Software|Robotics	12200000	Drones/Satellites	USA	RRE Ventures, Google Ventures, First Round Capital	
+Airware	First Round	Aerospace|Drones|Enterprise Software|Robotics	12200000	Drones/Satellites	USA	RRE Ventures, Google Ventures, First Round Capital	
+Airware	First Round	Aerospace|Drones|Enterprise Software|Robotics	25000000	Drones/Satellites	USA	RRE Ventures, Google Ventures, First Round Capital	
+Airware	First Round	Aerospace|Drones|Enterprise Software|Robotics	3000000	Drones/Satellites	USA	RRE Ventures, Google Ventures, First Round Capital	
+Airware	Google Ventures	Aerospace|Drones|Enterprise Software|Robotics	12200000	Drones/Satellites	USA	RRE Ventures, Google Ventures, First Round Capital	
+Airware	Google Ventures	Aerospace|Drones|Enterprise Software|Robotics	3000000	Drones/Satellites	USA	RRE Ventures, Google Ventures, First Round Capital	
+Airware	Kleiner Perkins Caufield & Byers	Aerospace|Drones|Enterprise Software|Robotics	25000000	Drones/Satellites	USA	RRE Ventures, Google Ventures, First Round Capital	
+Airware	Lemnos Labs	Aerospace|Drones|Enterprise Software|Robotics	3000000	Drones/Satellites	USA	RRE Ventures, Google Ventures, First Round Capital	
+Airware	Promus Ventures	Aerospace|Drones|Enterprise Software|Robotics	12200000	Drones/Satellites	USA	RRE Ventures, Google Ventures, First Round Capital	
+Airware	Promus Ventures	Aerospace|Drones|Enterprise Software|Robotics	3000000	Drones/Satellites	USA	RRE Ventures, Google Ventures, First Round Capital	
+Airware	RRE Ventures	Aerospace|Drones|Enterprise Software|Robotics	3000000	Drones/Satellites	USA	RRE Ventures, Google Ventures, First Round Capital	
+Airware	Shasta Ventures	Aerospace|Drones|Enterprise Software|Robotics	3000000	Drones/Satellites	USA	RRE Ventures, Google Ventures, First Round Capital	
+Airware	Y Combinator	Aerospace|Drones|Enterprise Software|Robotics	3000000	Drones/Satellites	USA	RRE Ventures, Google Ventures, First Round Capital	
+Avant	August Capital	Analytics|Big Data|FinTech|Machine Learning|Web Development	20000000	Fintech	USA	RRE Ventures, August Capital, KKR	Unicorn (9/29/2015)
+Avant	August Capital	Analytics|Big Data|FinTech|Machine Learning|Web Development	225000000	Fintech	USA	RRE Ventures, August Capital, KKR	Unicorn (9/29/2015)
+Avant	August Capital	Analytics|Big Data|FinTech|Machine Learning|Web Development	325000000	Fintech	USA	RRE Ventures, August Capital, KKR	Unicorn (9/29/2015)
+Avant	August Capital	Analytics|Big Data|FinTech|Machine Learning|Web Development	9000000	Fintech	USA	RRE Ventures, August Capital, KKR	Unicorn (9/29/2015)
+Avant	Balyasny Asset Management	Analytics|Big Data|FinTech|Machine Learning|Web Development	325000000	Fintech	USA	RRE Ventures, August Capital, KKR	Unicorn (9/29/2015)
+Avant	DFJ Growth	Analytics|Big Data|FinTech|Machine Learning|Web Development	225000000	Fintech	USA	RRE Ventures, August Capital, KKR	Unicorn (9/29/2015)
+Avant	DFJ Growth	Analytics|Big Data|FinTech|Machine Learning|Web Development	325000000	Fintech	USA	RRE Ventures, August Capital, KKR	Unicorn (9/29/2015)
+Avant	General Atlantic	Analytics|Big Data|FinTech|Machine Learning|Web Development	325000000	Fintech	USA	RRE Ventures, August Capital, KKR	Unicorn (9/29/2015)
+Avant	JP Morgan Chase & Co.	Analytics|Big Data|FinTech|Machine Learning|Web Development	325000000	Fintech	USA	RRE Ventures, August Capital, KKR	Unicorn (9/29/2015)
+Avant	Jefferies & Company	Analytics|Big Data|FinTech|Machine Learning|Web Development	400000000	Fintech	USA	RRE Ventures, August Capital, KKR	Unicorn (9/29/2015)
+Avant	Jefferies Group	Analytics|Big Data|FinTech|Machine Learning|Web Development	200000000	Fintech	USA	RRE Ventures, August Capital, KKR	Unicorn (9/29/2015)
+Avant	KKR (Kohlberg Kravis Roberts & Co.)	Analytics|Big Data|FinTech|Machine Learning|Web Development	225000000	Fintech	USA	RRE Ventures, August Capital, KKR	Unicorn (9/29/2015)
+Avant	KKR (Kohlberg Kravis Roberts & Co.)	Analytics|Big Data|FinTech|Machine Learning|Web Development	400000000	Fintech	USA	RRE Ventures, August Capital, KKR	Unicorn (9/29/2015)
+Avant	Mark Friedgan	Analytics|Big Data|FinTech|Machine Learning|Web Development	9000000	Fintech	USA	RRE Ventures, August Capital, KKR	Unicorn (9/29/2015)
+Avant	Peter Thiel	Analytics|Big Data|FinTech|Machine Learning|Web Development	225000000	Fintech	USA	RRE Ventures, August Capital, KKR	Unicorn (9/29/2015)
+Avant	QED Investors	Analytics|Big Data|FinTech|Machine Learning|Web Development	20000000	Fintech	USA	RRE Ventures, August Capital, KKR	Unicorn (9/29/2015)
+Avant	RRE Ventures	Analytics|Big Data|FinTech|Machine Learning|Web Development	225000000	Fintech	USA	RRE Ventures, August Capital, KKR	Unicorn (9/29/2015)
+Avant	RRE Ventures	Analytics|Big Data|FinTech|Machine Learning|Web Development	325000000	Fintech	USA	RRE Ventures, August Capital, KKR	Unicorn (9/29/2015)
+Avant	Tiger Global Management	Analytics|Big Data|FinTech|Machine Learning|Web Development	225000000	Fintech	USA	RRE Ventures, August Capital, KKR	Unicorn (9/29/2015)
+Avant	Tiger Global Management	Analytics|Big Data|FinTech|Machine Learning|Web Development	325000000	Fintech	USA	RRE Ventures, August Capital, KKR	Unicorn (9/29/2015)
+Avant	Tiger Global Management	Analytics|Big Data|FinTech|Machine Learning|Web Development	75000000	Fintech	USA	RRE Ventures, August Capital, KKR	Unicorn (9/29/2015)
+Avant	Victory Park Capital	Analytics|Big Data|FinTech|Machine Learning|Web Development	150000000	Fintech	USA	RRE Ventures, August Capital, KKR	Unicorn (9/29/2015)
+Avant	Victory Park Capital	Analytics|Big Data|FinTech|Machine Learning|Web Development	20000000	Fintech	USA	RRE Ventures, August Capital, KKR	Unicorn (9/29/2015)
+Avant	Victory Park Capital	Analytics|Big Data|FinTech|Machine Learning|Web Development	25000000	Fintech	USA	RRE Ventures, August Capital, KKR	Unicorn (9/29/2015)
+Avant	Victory Park Capital	Analytics|Big Data|FinTech|Machine Learning|Web Development	300000000	Fintech	USA	RRE Ventures, August Capital, KKR	Unicorn (9/29/2015)
+Avant	Victory Park Capital	Analytics|Big Data|FinTech|Machine Learning|Web Development	400000000	Fintech	USA	RRE Ventures, August Capital, KKR	Unicorn (9/29/2015)
+Avant	Victory Park Capital	Analytics|Big Data|FinTech|Machine Learning|Web Development	9000000	Fintech	USA	RRE Ventures, August Capital, KKR	Unicorn (9/29/2015)
+Beepi	Alec Oxenford	Automotive|E-Commerce	1250000	E-commerce	USA	Foundation Capital, Sherpa Ventures, Redpoint Ventures	
+Beepi	AngelList	Automotive|E-Commerce	12700000	E-commerce	USA	Foundation Capital, Sherpa Ventures, Redpoint Ventures	
+Beepi	Brett Rochkind	Automotive|E-Commerce	60000000	E-commerce	USA	Foundation Capital, Sherpa Ventures, Redpoint Ventures	
+Beepi	Brian Sharples	Automotive|E-Commerce	5000000	E-commerce	USA	Foundation Capital, Sherpa Ventures, Redpoint Ventures	
+Beepi	Brian Sharples	Automotive|E-Commerce	60000000	E-commerce	USA	Foundation Capital, Sherpa Ventures, Redpoint Ventures	
+Beepi	Comerica Bank	Automotive|E-Commerce	12700000	E-commerce	USA	Foundation Capital, Sherpa Ventures, Redpoint Ventures	
+Beepi	Fabrice Grinda	Automotive|E-Commerce	1250000	E-commerce	USA	Foundation Capital, Sherpa Ventures, Redpoint Ventures	
+Beepi	Fabrice Grinda	Automotive|E-Commerce	5000000	E-commerce	USA	Foundation Capital, Sherpa Ventures, Redpoint Ventures	
+Beepi	Fabrice Grinda	Automotive|E-Commerce	60000000	E-commerce	USA	Foundation Capital, Sherpa Ventures, Redpoint Ventures	
+Beepi	Foundation Capital	Automotive|E-Commerce	60000000	E-commerce	USA	Foundation Capital, Sherpa Ventures, Redpoint Ventures	
+Beepi	Gil Penchina	Automotive|E-Commerce	12700000	E-commerce	USA	Foundation Capital, Sherpa Ventures, Redpoint Ventures	
+Beepi	Jeff Brody	Automotive|E-Commerce	5000000	E-commerce	USA	Foundation Capital, Sherpa Ventures, Redpoint Ventures	
+Beepi	Jose Marin	Automotive|E-Commerce	1250000	E-commerce	USA	Foundation Capital, Sherpa Ventures, Redpoint Ventures	
+Beepi	Philippe Suchet	Automotive|E-Commerce	12700000	E-commerce	USA	Foundation Capital, Sherpa Ventures, Redpoint Ventures	
+Beepi	Redpoint Ventures	Automotive|E-Commerce	5000000	E-commerce	USA	Foundation Capital, Sherpa Ventures, Redpoint Ventures	
+Beepi	Redpoint Ventures	Automotive|E-Commerce	60000000	E-commerce	USA	Foundation Capital, Sherpa Ventures, Redpoint Ventures	
+Beepi	Richard Boyle	Automotive|E-Commerce	60000000	E-commerce	USA	Foundation Capital, Sherpa Ventures, Redpoint Ventures	
+Beepi	Rough Draft Ventures	Automotive|E-Commerce	1250000	E-commerce	USA	Foundation Capital, Sherpa Ventures, Redpoint Ventures	
+Beepi	Scott Bommer	Automotive|E-Commerce	12700000	E-commerce	USA	Foundation Capital, Sherpa Ventures, Redpoint Ventures	
+Beepi	Sherpa Capital	Automotive|E-Commerce	12700000	E-commerce	USA	Foundation Capital, Sherpa Ventures, Redpoint Ventures	
+Beepi	Sherpa Capital	Automotive|E-Commerce	60000000	E-commerce	USA	Foundation Capital, Sherpa Ventures, Redpoint Ventures	
+Beepi	Shervin Pishevar	Automotive|E-Commerce	60000000	E-commerce	USA	Foundation Capital, Sherpa Ventures, Redpoint Ventures	
+Beepi	Silicon Valley Bank	Automotive|E-Commerce	5000000	E-commerce	USA	Foundation Capital, Sherpa Ventures, Redpoint Ventures	
+Beepi	Silicon Valley Bank	Automotive|E-Commerce	60000000	E-commerce	USA	Foundation Capital, Sherpa Ventures, Redpoint Ventures	
+Beepi	TA Ventures	Automotive|E-Commerce	1250000	E-commerce	USA	Foundation Capital, Sherpa Ventures, Redpoint Ventures	
+Beepi	Teodoro D'Ambrosio	Automotive|E-Commerce	1250000	E-commerce	USA	Foundation Capital, Sherpa Ventures, Redpoint Ventures	
+Beepi	Tina Sharkey	Automotive|E-Commerce	5000000	E-commerce	USA	Foundation Capital, Sherpa Ventures, Redpoint Ventures	
+Beepi	Tina Sharkey	Automotive|E-Commerce	60000000	E-commerce	USA	Foundation Capital, Sherpa Ventures, Redpoint Ventures	
+Beepi	Yuri Milner	Automotive|E-Commerce	12700000	E-commerce	USA	Foundation Capital, Sherpa Ventures, Redpoint Ventures	
+Betterment	Anthemis Group	Finance|Investment Management	10000000	Fintech	USA	Bessemer Venture Partners, Menlo Ventures, Red Swan Ventures	Raised Series E (3/29/2016)
+Betterment	Anthemis Group	Finance|Investment Management	3000000	Fintech	USA	Bessemer Venture Partners, Menlo Ventures, Red Swan Ventures	Raised Series E (3/29/2016)
+Betterment	Anthemis Group	Finance|Investment Management	32000000	Fintech	USA	Bessemer Venture Partners, Menlo Ventures, Red Swan Ventures	Raised Series E (3/29/2016)
+Betterment	Anthemis Group	Finance|Investment Management	60000000	Fintech	USA	Bessemer Venture Partners, Menlo Ventures, Red Swan Ventures	Raised Series E (3/29/2016)
+Betterment	Bessemer Venture Partners	Finance|Investment Management	10000000	Fintech	USA	Bessemer Venture Partners, Menlo Ventures, Red Swan Ventures	Raised Series E (3/29/2016)
+Betterment	Bessemer Venture Partners	Finance|Investment Management	3000000	Fintech	USA	Bessemer Venture Partners, Menlo Ventures, Red Swan Ventures	Raised Series E (3/29/2016)
+Betterment	Bessemer Venture Partners	Finance|Investment Management	32000000	Fintech	USA	Bessemer Venture Partners, Menlo Ventures, Red Swan Ventures	Raised Series E (3/29/2016)
+Betterment	Bessemer Venture Partners	Finance|Investment Management	60000000	Fintech	USA	Bessemer Venture Partners, Menlo Ventures, Red Swan Ventures	Raised Series E (3/29/2016)
+Betterment	Citi Ventures	Finance|Investment Management	32000000	Fintech	USA	Bessemer Venture Partners, Menlo Ventures, Red Swan Ventures	Raised Series E (3/29/2016)
+Betterment	Francisco Partners	Finance|Investment Management	60000000	Fintech	USA	Bessemer Venture Partners, Menlo Ventures, Red Swan Ventures	Raised Series E (3/29/2016)
+Betterment	Globespan Capital Partners	Finance|Investment Management	32000000	Fintech	USA	Bessemer Venture Partners, Menlo Ventures, Red Swan Ventures	Raised Series E (3/29/2016)
+Betterment	Jason Finger	Finance|Investment Management	3000000	Fintech	USA	Bessemer Venture Partners, Menlo Ventures, Red Swan Ventures	Raised Series E (3/29/2016)
+Betterment	Menlo Ventures	Finance|Investment Management	10000000	Fintech	USA	Bessemer Venture Partners, Menlo Ventures, Red Swan Ventures	Raised Series E (3/29/2016)
+Betterment	Menlo Ventures	Finance|Investment Management	32000000	Fintech	USA	Bessemer Venture Partners, Menlo Ventures, Red Swan Ventures	Raised Series E (3/29/2016)
+Betterment	Menlo Ventures	Finance|Investment Management	60000000	Fintech	USA	Bessemer Venture Partners, Menlo Ventures, Red Swan Ventures	Raised Series E (3/29/2016)
+Betterment	Northwestern Mutual	Finance|Investment Management	32000000	Fintech	USA	Bessemer Venture Partners, Menlo Ventures, Red Swan Ventures	Raised Series E (3/29/2016)
+Betterment	Northwestern Mutual	Finance|Investment Management	60000000	Fintech	USA	Bessemer Venture Partners, Menlo Ventures, Red Swan Ventures	Raised Series E (3/29/2016)
+Betterment	Thomas D. Lehrman	Finance|Investment Management	3000000	Fintech	USA	Bessemer Venture Partners, Menlo Ventures, Red Swan Ventures	Raised Series E (3/29/2016)
+Betterment	reinmkr capital	Finance|Investment Management	10000000	Fintech	USA	Bessemer Venture Partners, Menlo Ventures, Red Swan Ventures	Raised Series E (3/29/2016)
+Betterment	reinmkr capital	Finance|Investment Management	3000000	Fintech	USA	Bessemer Venture Partners, Menlo Ventures, Red Swan Ventures	Raised Series E (3/29/2016)
+Coinbase	Alexis Ohanian	Bitcoin|E-Commerce|Personal Finance	600000	Fintech	USA	Union Square Ventures, Andreessen Horowitz, BBVA Ventures	
+Coinbase	Andreessen Horowitz	Bitcoin|E-Commerce|Personal Finance	25000000	Fintech	USA	Union Square Ventures, Andreessen Horowitz, BBVA Ventures	
+Coinbase	Andreessen Horowitz	Bitcoin|E-Commerce|Personal Finance	75000000	Fintech	USA	Union Square Ventures, Andreessen Horowitz, BBVA Ventures	
+Coinbase	Anthony Saleh	Bitcoin|E-Commerce|Personal Finance	25000000	Fintech	USA	Union Square Ventures, Andreessen Horowitz, BBVA Ventures	
+Coinbase	BBVA Ventures	Bitcoin|E-Commerce|Personal Finance	75000000	Fintech	USA	Union Square Ventures, Andreessen Horowitz, BBVA Ventures	
+Coinbase	Blockchain Capital	Bitcoin|E-Commerce|Personal Finance	75000000	Fintech	USA	Union Square Ventures, Andreessen Horowitz, BBVA Ventures	
+Coinbase	Bobby Goodlatte	Bitcoin|E-Commerce|Personal Finance	6109590	Fintech	USA	Union Square Ventures, Andreessen Horowitz, BBVA Ventures	
+Coinbase	Draper Fisher Jurvetson (DFJ)	Bitcoin|E-Commerce|Personal Finance	75000000	Fintech	USA	Union Square Ventures, Andreessen Horowitz, BBVA Ventures	
+Coinbase	FundersClub	Bitcoin|E-Commerce|Personal Finance	600000	Fintech	USA	Union Square Ventures, Andreessen Horowitz, BBVA Ventures	
+Coinbase	FundersClub	Bitcoin|E-Commerce|Personal Finance	6109590	Fintech	USA	Union Square Ventures, Andreessen Horowitz, BBVA Ventures	
+Coinbase	Garry Tan	Bitcoin|E-Commerce|Personal Finance	600000	Fintech	USA	Union Square Ventures, Andreessen Horowitz, BBVA Ventures	
+Coinbase	Greg Kidd	Bitcoin|E-Commerce|Personal Finance	600000	Fintech	USA	Union Square Ventures, Andreessen Horowitz, BBVA Ventures	
+Coinbase	Interplay Ventures	Bitcoin|E-Commerce|Personal Finance	6109590	Fintech	USA	Union Square Ventures, Andreessen Horowitz, BBVA Ventures	
+Coinbase	New York Stock Exchange (NYSE)	Bitcoin|E-Commerce|Personal Finance	75000000	Fintech	USA	Union Square Ventures, Andreessen Horowitz, BBVA Ventures	
+Coinbase	QueensBridge Venture Partners	Bitcoin|E-Commerce|Personal Finance	25000000	Fintech	USA	Union Square Ventures, Andreessen Horowitz, BBVA Ventures	
+Coinbase	Red Swan Ventures	Bitcoin|E-Commerce|Personal Finance	6109590	Fintech	USA	Union Square Ventures, Andreessen Horowitz, BBVA Ventures	
+Coinbase	Ribbit Capital	Bitcoin|E-Commerce|Personal Finance	25000000	Fintech	USA	Union Square Ventures, Andreessen Horowitz, BBVA Ventures	
+Coinbase	Ribbit Capital	Bitcoin|E-Commerce|Personal Finance	6109590	Fintech	USA	Union Square Ventures, Andreessen Horowitz, BBVA Ventures	
+Coinbase	Ribbit Capital	Bitcoin|E-Commerce|Personal Finance	75000000	Fintech	USA	Union Square Ventures, Andreessen Horowitz, BBVA Ventures	
+Coinbase	SV Angel	Bitcoin|E-Commerce|Personal Finance	6109590	Fintech	USA	Union Square Ventures, Andreessen Horowitz, BBVA Ventures	
+Coinbase	USAA	Bitcoin|E-Commerce|Personal Finance	75000000	Fintech	USA	Union Square Ventures, Andreessen Horowitz, BBVA Ventures	
+Coinbase	Union Square Ventures	Bitcoin|E-Commerce|Personal Finance	25000000	Fintech	USA	Union Square Ventures, Andreessen Horowitz, BBVA Ventures	
+Coinbase	Union Square Ventures	Bitcoin|E-Commerce|Personal Finance	6109590	Fintech	USA	Union Square Ventures, Andreessen Horowitz, BBVA Ventures	
+Coinbase	Union Square Ventures	Bitcoin|E-Commerce|Personal Finance	75000000	Fintech	USA	Union Square Ventures, Andreessen Horowitz, BBVA Ventures	
+Coinbase	Valor Capital Group	Bitcoin|E-Commerce|Personal Finance	75000000	Fintech	USA	Union Square Ventures, Andreessen Horowitz, BBVA Ventures	
+Coinbase	Vayner/RSE	Bitcoin|E-Commerce|Personal Finance	75000000	Fintech	USA	Union Square Ventures, Andreessen Horowitz, BBVA Ventures	
+Coinbase	Y Combinator	Bitcoin|E-Commerce|Personal Finance	600000	Fintech	USA	Union Square Ventures, Andreessen Horowitz, BBVA Ventures	
+Collective Health	Bobby Yazdani	Analytics|Business Intelligence|Health and Wellness|Health Care|Health Care Information Technology|Healthcare Services|Insurance|Software	6000000	Healthcare	USA	Founders Fund, Formation 8, New Enterprise Associates	
+Collective Health	Citizen.VC	Analytics|Business Intelligence|Health and Wellness|Health Care|Health Care Information Technology|Healthcare Services|Insurance|Software	6000000	Healthcare	USA	Founders Fund, Formation 8, New Enterprise Associates	
+Collective Health	Formation 8	Analytics|Business Intelligence|Health and Wellness|Health Care|Health Care Information Technology|Healthcare Services|Insurance|Software	38000000	Healthcare	USA	Founders Fund, Formation 8, New Enterprise Associates	
+Collective Health	Founders Fund	Analytics|Business Intelligence|Health and Wellness|Health Care|Health Care Information Technology|Healthcare Services|Insurance|Software	38000000	Healthcare	USA	Founders Fund, Formation 8, New Enterprise Associates	
+Collective Health	Founders Fund	Analytics|Business Intelligence|Health and Wellness|Health Care|Health Care Information Technology|Healthcare Services|Insurance|Software	6000000	Healthcare	USA	Founders Fund, Formation 8, New Enterprise Associates	
+Collective Health	Founders Fund	Analytics|Business Intelligence|Health and Wellness|Health Care|Health Care Information Technology|Healthcare Services|Insurance|Software	81000000	Healthcare	USA	Founders Fund, Formation 8, New Enterprise Associates	
+Collective Health	Google Ventures	Analytics|Business Intelligence|Health and Wellness|Health Care|Health Care Information Technology|Healthcare Services|Insurance|Software	6000000	Healthcare	USA	Founders Fund, Formation 8, New Enterprise Associates	
+Collective Health	Google Ventures	Analytics|Business Intelligence|Health and Wellness|Health Care|Health Care Information Technology|Healthcare Services|Insurance|Software	81000000	Healthcare	USA	Founders Fund, Formation 8, New Enterprise Associates	
+Collective Health	Great Oaks Venture Capital	Analytics|Business Intelligence|Health and Wellness|Health Care|Health Care Information Technology|Healthcare Services|Insurance|Software	38000000	Healthcare	USA	Founders Fund, Formation 8, New Enterprise Associates	
+Collective Health	Maverick Capital	Analytics|Business Intelligence|Health and Wellness|Health Care|Health Care Information Technology|Healthcare Services|Insurance|Software	6000000	Healthcare	USA	Founders Fund, Formation 8, New Enterprise Associates	
+Collective Health	Maverick Capital	Analytics|Business Intelligence|Health and Wellness|Health Care|Health Care Information Technology|Healthcare Services|Insurance|Software	81000000	Healthcare	USA	Founders Fund, Formation 8, New Enterprise Associates	
+Collective Health	New Enterprise Associates	Analytics|Business Intelligence|Health and Wellness|Health Care|Health Care Information Technology|Healthcare Services|Insurance|Software	38000000	Healthcare	USA	Founders Fund, Formation 8, New Enterprise Associates	
+Collective Health	New Enterprise Associates	Analytics|Business Intelligence|Health and Wellness|Health Care|Health Care Information Technology|Healthcare Services|Insurance|Software	6000000	Healthcare	USA	Founders Fund, Formation 8, New Enterprise Associates	
+Collective Health	New Enterprise Associates	Analytics|Business Intelligence|Health and Wellness|Health Care|Health Care Information Technology|Healthcare Services|Insurance|Software	81000000	Healthcare	USA	Founders Fund, Formation 8, New Enterprise Associates	
+Collective Health	RRE Ventures	Analytics|Business Intelligence|Health and Wellness|Health Care|Health Care Information Technology|Healthcare Services|Insurance|Software	6000000	Healthcare	USA	Founders Fund, Formation 8, New Enterprise Associates	
+Collective Health	RRE Ventures	Analytics|Business Intelligence|Health and Wellness|Health Care|Health Care Information Technology|Healthcare Services|Insurance|Software	81000000	Healthcare	USA	Founders Fund, Formation 8, New Enterprise Associates	
+Collective Health	Redpoint Ventures	Analytics|Business Intelligence|Health and Wellness|Health Care|Health Care Information Technology|Healthcare Services|Insurance|Software	38000000	Healthcare	USA	Founders Fund, Formation 8, New Enterprise Associates	
+Collective Health	Redpoint Ventures	Analytics|Business Intelligence|Health and Wellness|Health Care|Health Care Information Technology|Healthcare Services|Insurance|Software	6000000	Healthcare	USA	Founders Fund, Formation 8, New Enterprise Associates	
+Collective Health	Redpoint Ventures	Analytics|Business Intelligence|Health and Wellness|Health Care|Health Care Information Technology|Healthcare Services|Insurance|Software	81000000	Healthcare	USA	Founders Fund, Formation 8, New Enterprise Associates	
+Collective Health	Rock Health	Analytics|Business Intelligence|Health and Wellness|Health Care|Health Care Information Technology|Healthcare Services|Insurance|Software	38000000	Healthcare	USA	Founders Fund, Formation 8, New Enterprise Associates	
+Collective Health	Signatures Capital	Analytics|Business Intelligence|Health and Wellness|Health Care|Health Care Information Technology|Healthcare Services|Insurance|Software	6000000	Healthcare	USA	Founders Fund, Formation 8, New Enterprise Associates	
+Collective Health	Subtraction Capital	Analytics|Business Intelligence|Health and Wellness|Health Care|Health Care Information Technology|Healthcare Services|Insurance|Software	38000000	Healthcare	USA	Founders Fund, Formation 8, New Enterprise Associates	
+Cyanogen	Access Industries	Services|Software	85000000	Mobile Software & Services	USA	Twitter Ventures, Qualcomm Ventures, Benchmark Capital	
+Cyanogen	Andreessen Horowitz	Services|Software	23000000	Mobile Software & Services	USA	Twitter Ventures, Qualcomm Ventures, Benchmark Capital	
+Cyanogen	Andreessen Horowitz	Services|Software	85000000	Mobile Software & Services	USA	Twitter Ventures, Qualcomm Ventures, Benchmark Capital	
+Cyanogen	Benchmark	Services|Software	7000000	Mobile Software & Services	USA	Twitter Ventures, Qualcomm Ventures, Benchmark Capital	
+Cyanogen	Benchmark	Services|Software	85000000	Mobile Software & Services	USA	Twitter Ventures, Qualcomm Ventures, Benchmark Capital	
+Cyanogen	Foxconn Technology Group	Services|Software	85000000	Mobile Software & Services	USA	Twitter Ventures, Qualcomm Ventures, Benchmark Capital	
+Cyanogen	Index Ventures	Services|Software	85000000	Mobile Software & Services	USA	Twitter Ventures, Qualcomm Ventures, Benchmark Capital	
+Cyanogen	Microsoft	Services|Software	85000000	Mobile Software & Services	USA	Twitter Ventures, Qualcomm Ventures, Benchmark Capital	
+Cyanogen	PremjiInvest	Services|Software	85000000	Mobile Software & Services	USA	Twitter Ventures, Qualcomm Ventures, Benchmark Capital	
+Cyanogen	Qualcomm Incorporated	Services|Software	85000000	Mobile Software & Services	USA	Twitter Ventures, Qualcomm Ventures, Benchmark Capital	
+Cyanogen	Redpoint Ventures	Services|Software	7000000	Mobile Software & Services	USA	Twitter Ventures, Qualcomm Ventures, Benchmark Capital	
+Cyanogen	Redpoint Ventures	Services|Software	85000000	Mobile Software & Services	USA	Twitter Ventures, Qualcomm Ventures, Benchmark Capital	
+Cyanogen	Rupert Murdoch	Services|Software	85000000	Mobile Software & Services	USA	Twitter Ventures, Qualcomm Ventures, Benchmark Capital	
+Cyanogen	Santander Innoventures	Services|Software	85000000	Mobile Software & Services	USA	Twitter Ventures, Qualcomm Ventures, Benchmark Capital	
+Cyanogen	Smartfren Telecom	Services|Software	85000000	Mobile Software & Services	USA	Twitter Ventures, Qualcomm Ventures, Benchmark Capital	
+Cyanogen	Telefonica Ventures	Services|Software	85000000	Mobile Software & Services	USA	Twitter Ventures, Qualcomm Ventures, Benchmark Capital	
+Cyanogen	Tencent Holdings	Services|Software	23000000	Mobile Software & Services	USA	Twitter Ventures, Qualcomm Ventures, Benchmark Capital	
+Cyanogen	Tencent Holdings	Services|Software	85000000	Mobile Software & Services	USA	Twitter Ventures, Qualcomm Ventures, Benchmark Capital	
+Cyanogen	Twitter Ventures	Services|Software	85000000	Mobile Software & Services	USA	Twitter Ventures, Qualcomm Ventures, Benchmark Capital	
+Cyanogen	Vivi Nevo	Services|Software	85000000	Mobile Software & Services	USA	Twitter Ventures, Qualcomm Ventures, Benchmark Capital	
+Decolar.com	Expedia	Online Travel|Travel & Tourism	270000000	Internet Software & Services	Brazil	Sequoia Capital, Insight Venture Partners, Accel Partners	
+Deliveroo	Accel	Food Processing	100000000	On-Demand	United Kingdom	Accel Partners, Hoxton Ventures, Index Ventures	
+Deliveroo	Accel	Food Processing	25000000	On-Demand	United Kingdom	Accel Partners, Hoxton Ventures, Index Ventures	
+Deliveroo	Accel	Food Processing	70000000	On-Demand	United Kingdom	Accel Partners, Hoxton Ventures, Index Ventures	
+Deliveroo	DST Global	Food Processing	100000000	On-Demand	United Kingdom	Accel Partners, Hoxton Ventures, Index Ventures	
+Deliveroo	Greenoaks Capital	Food Processing	100000000	On-Demand	United Kingdom	Accel Partners, Hoxton Ventures, Index Ventures	
+Deliveroo	Greenoaks Capital	Food Processing	70000000	On-Demand	United Kingdom	Accel Partners, Hoxton Ventures, Index Ventures	
+Deliveroo	Hoxton Ventures	Food Processing	4585753	On-Demand	United Kingdom	Accel Partners, Hoxton Ventures, Index Ventures	
+Deliveroo	Hoxton Ventures	Food Processing	70000000	On-Demand	United Kingdom	Accel Partners, Hoxton Ventures, Index Ventures	
+Deliveroo	Hummingbird Ventures	Food Processing	100000000	On-Demand	United Kingdom	Accel Partners, Hoxton Ventures, Index Ventures	
+Deliveroo	Hummingbird Ventures	Food Processing	25000000	On-Demand	United Kingdom	Accel Partners, Hoxton Ventures, Index Ventures	
+Deliveroo	Index Ventures	Food Processing	100000000	On-Demand	United Kingdom	Accel Partners, Hoxton Ventures, Index Ventures	
+Deliveroo	Index Ventures	Food Processing	25000000	On-Demand	United Kingdom	Accel Partners, Hoxton Ventures, Index Ventures	
+Deliveroo	Index Ventures	Food Processing	4585753	On-Demand	United Kingdom	Accel Partners, Hoxton Ventures, Index Ventures	
+Deliveroo	Index Ventures	Food Processing	70000000	On-Demand	United Kingdom	Accel Partners, Hoxton Ventures, Index Ventures	
+Deliveroo	JamJar Investments	Food Processing	4585753	On-Demand	United Kingdom	Accel Partners, Hoxton Ventures, Index Ventures	
+DigitalOcean	Access Industries	Cloud Computing|Finance|Networking|Virtualization|Web Hosting	83000000	Internet Software & Services	USA	Andreessen Horowitz, IA Ventures, CrunchFund	
+DigitalOcean	Andreessen Horowitz	Cloud Computing|Finance|Networking|Virtualization|Web Hosting	37000000	Internet Software & Services	USA	Andreessen Horowitz, IA Ventures, CrunchFund	
+DigitalOcean	Andreessen Horowitz	Cloud Computing|Finance|Networking|Virtualization|Web Hosting	83000000	Internet Software & Services	USA	Andreessen Horowitz, IA Ventures, CrunchFund	
+DigitalOcean	CrunchFund	Cloud Computing|Finance|Networking|Virtualization|Web Hosting	3205800	Internet Software & Services	USA	Andreessen Horowitz, IA Ventures, CrunchFund	
+DigitalOcean	CrunchFund	Cloud Computing|Finance|Networking|Virtualization|Web Hosting	37000000	Internet Software & Services	USA	Andreessen Horowitz, IA Ventures, CrunchFund	
+DigitalOcean	Fortress Investment Group	Cloud Computing|Finance|Networking|Virtualization|Web Hosting	50000000	Internet Software & Services	USA	Andreessen Horowitz, IA Ventures, CrunchFund	
+DigitalOcean	IA Ventures	Cloud Computing|Finance|Networking|Virtualization|Web Hosting	3205800	Internet Software & Services	USA	Andreessen Horowitz, IA Ventures, CrunchFund	
+DigitalOcean	IA Ventures	Cloud Computing|Finance|Networking|Virtualization|Web Hosting	37000000	Internet Software & Services	USA	Andreessen Horowitz, IA Ventures, CrunchFund	
+DigitalOcean	Techstars	Cloud Computing|Finance|Networking|Virtualization|Web Hosting	3205800	Internet Software & Services	USA	Andreessen Horowitz, IA Ventures, CrunchFund	
+DigitalOcean	Trinity Capital Investment	Cloud Computing|Finance|Networking|Virtualization|Web Hosting	2000000	Internet Software & Services	USA	Andreessen Horowitz, IA Ventures, CrunchFund	
+Dollar Shave Club	Andreessen Horowitz	E-Commerce|Retail	1000000	E-Commerce	USA	Venrock, Battery Ventures, Felicis Ventures	
+Dollar Shave Club	Battery Ventures	E-Commerce|Retail	12000000	E-Commerce	USA	Venrock, Battery Ventures, Felicis Ventures	
+Dollar Shave Club	Brendan Wallace	E-Commerce|Retail	12000000	E-Commerce	USA	Venrock, Battery Ventures, Felicis Ventures	
+Dollar Shave Club	Comcast Ventures	E-Commerce|Retail	12000000	E-Commerce	USA	Venrock, Battery Ventures, Felicis Ventures	
+Dollar Shave Club	Cowboy Ventures	E-Commerce|Retail	1000000	E-Commerce	USA	Venrock, Battery Ventures, Felicis Ventures	
+Dollar Shave Club	Dragoneer Investment Group	E-Commerce|Retail	90700000	E-Commerce	USA	Venrock, Battery Ventures, Felicis Ventures	
+Dollar Shave Club	Felicis Ventures	E-Commerce|Retail	1000000	E-Commerce	USA	Venrock, Battery Ventures, Felicis Ventures	
+Dollar Shave Club	Felicis Ventures	E-Commerce|Retail	9800000	E-Commerce	USA	Venrock, Battery Ventures, Felicis Ventures	
+Dollar Shave Club	Forerunner Ventures	E-Commerce|Retail	1000000	E-Commerce	USA	Venrock, Battery Ventures, Felicis Ventures	
+Dollar Shave Club	Forerunner Ventures	E-Commerce|Retail	12000000	E-Commerce	USA	Venrock, Battery Ventures, Felicis Ventures	
+Dollar Shave Club	Forerunner Ventures	E-Commerce|Retail	90700000	E-Commerce	USA	Venrock, Battery Ventures, Felicis Ventures	
+Dollar Shave Club	Forerunner Ventures	E-Commerce|Retail	9800000	E-Commerce	USA	Venrock, Battery Ventures, Felicis Ventures	
+Dollar Shave Club	Kleiner Perkins Caufield & Byers	E-Commerce|Retail	1000000	E-Commerce	USA	Venrock, Battery Ventures, Felicis Ventures	
+Dollar Shave Club	Pritzker Group Venture Capital	E-Commerce|Retail	12000000	E-Commerce	USA	Venrock, Battery Ventures, Felicis Ventures	
+Dollar Shave Club	Pritzker Group Venture Capital	E-Commerce|Retail	50000000	E-Commerce	USA	Venrock, Battery Ventures, Felicis Ventures	
+Dollar Shave Club	Rustic Canyon Partners	E-Commerce|Retail	1000000	E-Commerce	USA	Venrock, Battery Ventures, Felicis Ventures	
+Dollar Shave Club	Rustic Canyon Partners	E-Commerce|Retail	12000000	E-Commerce	USA	Venrock, Battery Ventures, Felicis Ventures	
+Dollar Shave Club	Rustic Canyon Partners	E-Commerce|Retail	9800000	E-Commerce	USA	Venrock, Battery Ventures, Felicis Ventures	
+Dollar Shave Club	Science	E-Commerce|Retail	1000000	E-Commerce	USA	Venrock, Battery Ventures, Felicis Ventures	
+Dollar Shave Club	Science	E-Commerce|Retail	9800000	E-Commerce	USA	Venrock, Battery Ventures, Felicis Ventures	
+Dollar Shave Club	Shasta Ventures	E-Commerce|Retail	1000000	E-Commerce	USA	Venrock, Battery Ventures, Felicis Ventures	
+Dollar Shave Club	TCV Capital	E-Commerce|Retail	90700000	E-Commerce	USA	Venrock, Battery Ventures, Felicis Ventures	
+Dollar Shave Club	Technology Crossover Ventures	E-Commerce|Retail	50000000	E-Commerce	USA	Venrock, Battery Ventures, Felicis Ventures	
+Dollar Shave Club	Technology Crossover Ventures	E-Commerce|Retail	90700000	E-Commerce	USA	Venrock, Battery Ventures, Felicis Ventures	
+Dollar Shave Club	Venrock	E-Commerce|Retail	12000000	E-Commerce	USA	Venrock, Battery Ventures, Felicis Ventures	
+Dollar Shave Club	Venrock	E-Commerce|Retail	50000000	E-Commerce	USA	Venrock, Battery Ventures, Felicis Ventures	
+Dollar Shave Club	Venrock	E-Commerce|Retail	90700000	E-Commerce	USA	Venrock, Battery Ventures, Felicis Ventures	
+Dollar Shave Club	Venrock	E-Commerce|Retail	9800000	E-Commerce	USA	Venrock, Battery Ventures, Felicis Ventures	
+Dollar Shave Club	White Star Capital	E-Commerce|Retail	1000000	E-Commerce	USA	Venrock, Battery Ventures, Felicis Ventures	
+DoorDash	Andy Rachleff	Delivery|Local|Local Businesses|Logistics|Mobile|Small and Medium Businesses	2400000	On-Demand	USA	Khosla Ventures, Sequoia Capital, KPCB	
+DoorDash	CRV	Delivery|Local|Local Businesses|Logistics|Mobile|Small and Medium Businesses	17300000	On-Demand	USA	Khosla Ventures, Sequoia Capital, KPCB	
+DoorDash	CRV	Delivery|Local|Local Businesses|Logistics|Mobile|Small and Medium Businesses	2400000	On-Demand	USA	Khosla Ventures, Sequoia Capital, KPCB	
+DoorDash	CRV	Delivery|Local|Local Businesses|Logistics|Mobile|Small and Medium Businesses	40000000	On-Demand	USA	Khosla Ventures, Sequoia Capital, KPCB	
+DoorDash	Haystack	Delivery|Local|Local Businesses|Logistics|Mobile|Small and Medium Businesses	2400000	On-Demand	USA	Khosla Ventures, Sequoia Capital, KPCB	
+DoorDash	John Doerr	Delivery|Local|Local Businesses|Logistics|Mobile|Small and Medium Businesses	40000000	On-Demand	USA	Khosla Ventures, Sequoia Capital, KPCB	
+DoorDash	Khosla Ventures	Delivery|Local|Local Businesses|Logistics|Mobile|Small and Medium Businesses	17300000	On-Demand	USA	Khosla Ventures, Sequoia Capital, KPCB	
+DoorDash	Khosla Ventures	Delivery|Local|Local Businesses|Logistics|Mobile|Small and Medium Businesses	2400000	On-Demand	USA	Khosla Ventures, Sequoia Capital, KPCB	
+DoorDash	Khosla Ventures	Delivery|Local|Local Businesses|Logistics|Mobile|Small and Medium Businesses	40000000	On-Demand	USA	Khosla Ventures, Sequoia Capital, KPCB	
+DoorDash	Kleiner Perkins Caufield & Byers	Delivery|Local|Local Businesses|Logistics|Mobile|Small and Medium Businesses	40000000	On-Demand	USA	Khosla Ventures, Sequoia Capital, KPCB	
+DoorDash	Ooga Labs	Delivery|Local|Local Businesses|Logistics|Mobile|Small and Medium Businesses	2400000	On-Demand	USA	Khosla Ventures, Sequoia Capital, KPCB	
+DoorDash	Paul Buchheit	Delivery|Local|Local Businesses|Logistics|Mobile|Small and Medium Businesses	2400000	On-Demand	USA	Khosla Ventures, Sequoia Capital, KPCB	
+DoorDash	Pejman Mar Ventures	Delivery|Local|Local Businesses|Logistics|Mobile|Small and Medium Businesses	17300000	On-Demand	USA	Khosla Ventures, Sequoia Capital, KPCB	
+DoorDash	Pejman Mar Ventures	Delivery|Local|Local Businesses|Logistics|Mobile|Small and Medium Businesses	2400000	On-Demand	USA	Khosla Ventures, Sequoia Capital, KPCB	
+DoorDash	Pejman Mar Ventures	Delivery|Local|Local Businesses|Logistics|Mobile|Small and Medium Businesses	40000000	On-Demand	USA	Khosla Ventures, Sequoia Capital, KPCB	
+DoorDash	Pejman Nozad	Delivery|Local|Local Businesses|Logistics|Mobile|Small and Medium Businesses	2400000	On-Demand	USA	Khosla Ventures, Sequoia Capital, KPCB	
+DoorDash	SV Angel	Delivery|Local|Local Businesses|Logistics|Mobile|Small and Medium Businesses	2400000	On-Demand	USA	Khosla Ventures, Sequoia Capital, KPCB	
+DoorDash	Semil Shah	Delivery|Local|Local Businesses|Logistics|Mobile|Small and Medium Businesses	2400000	On-Demand	USA	Khosla Ventures, Sequoia Capital, KPCB	
+DoorDash	Sequoia Capital	Delivery|Local|Local Businesses|Logistics|Mobile|Small and Medium Businesses	17300000	On-Demand	USA	Khosla Ventures, Sequoia Capital, KPCB	
+DoorDash	Sequoia Capital	Delivery|Local|Local Businesses|Logistics|Mobile|Small and Medium Businesses	40000000	On-Demand	USA	Khosla Ventures, Sequoia Capital, KPCB	
+DoorDash	Streamlined Ventures	Delivery|Local|Local Businesses|Logistics|Mobile|Small and Medium Businesses	2400000	On-Demand	USA	Khosla Ventures, Sequoia Capital, KPCB	
+DoorDash	Streamlined Ventures	Delivery|Local|Local Businesses|Logistics|Mobile|Small and Medium Businesses	40000000	On-Demand	USA	Khosla Ventures, Sequoia Capital, KPCB	
+DoorDash	Ted Zagat	Delivery|Local|Local Businesses|Logistics|Mobile|Small and Medium Businesses	17300000	On-Demand	USA	Khosla Ventures, Sequoia Capital, KPCB	
+Elastic	Benchmark	Cloud Computing|Open Source|Real Time|Search|Software	10000000	Internet Software & Services	Netherlands	Boxgroup, SV Angel, Spark Capital	
+Elastic	Benchmark	Cloud Computing|Open Source|Real Time|Search|Software	24000000	Internet Software & Services	Netherlands	Boxgroup, SV Angel, Spark Capital	
+Elastic	Benchmark	Cloud Computing|Open Source|Real Time|Search|Software	70000000	Internet Software & Services	Netherlands	Boxgroup, SV Angel, Spark Capital	
+Elastic	Data Collective	Cloud Computing|Open Source|Real Time|Search|Software	10000000	Internet Software & Services	Netherlands	Boxgroup, SV Angel, Spark Capital	
+Elastic	Index Ventures	Cloud Computing|Open Source|Real Time|Search|Software	24000000	Internet Software & Services	Netherlands	Boxgroup, SV Angel, Spark Capital	
+Elastic	Index Ventures	Cloud Computing|Open Source|Real Time|Search|Software	70000000	Internet Software & Services	Netherlands	Boxgroup, SV Angel, Spark Capital	
+Elastic	New Enterprise Associates	Cloud Computing|Open Source|Real Time|Search|Software	70000000	Internet Software & Services	Netherlands	Boxgroup, SV Angel, Spark Capital	
+Elastic	Rod Johnson	Cloud Computing|Open Source|Real Time|Search|Software	10000000	Internet Software & Services	Netherlands	Boxgroup, SV Angel, Spark Capital	
+Elastic	SV Angel	Cloud Computing|Open Source|Real Time|Search|Software	24000000	Internet Software & Services	Netherlands	Boxgroup, SV Angel, Spark Capital	
+Ele.me	CITIC Capital Holdings	B2B Express Delivery|E-Commerce	630000000	On-Demand	China	Horizons Ventures, GSR Ventures, Matrix Partners China	Unicorn (8/27/2015)
+Ele.me	CITIC PE	B2B Express Delivery|E-Commerce	350000000	On-Demand	China	Horizons Ventures, GSR Ventures, Matrix Partners China	Unicorn (8/27/2015)
+Ele.me	Dianping	B2B Express Delivery|E-Commerce	350000000	On-Demand	China	Horizons Ventures, GSR Ventures, Matrix Partners China	Unicorn (8/27/2015)
+Ele.me	Dianping	B2B Express Delivery|E-Commerce	80000000	On-Demand	China	Horizons Ventures, GSR Ventures, Matrix Partners China	Unicorn (8/27/2015)
+Ele.me	GSR Ventures	B2B Express Delivery|E-Commerce	25000000	On-Demand	China	Horizons Ventures, GSR Ventures, Matrix Partners China	Unicorn (8/27/2015)
+Ele.me	Hualian	B2B Express Delivery|E-Commerce	630000000	On-Demand	China	Horizons Ventures, GSR Ventures, Matrix Partners China	Unicorn (8/27/2015)
+Ele.me	JD.com	B2B Express Delivery|E-Commerce	630000000	On-Demand	China	Horizons Ventures, GSR Ventures, Matrix Partners China	Unicorn (8/27/2015)
+Ele.me	Matrix Partners	B2B Express Delivery|E-Commerce	25000000	On-Demand	China	Horizons Ventures, GSR Ventures, Matrix Partners China	Unicorn (8/27/2015)
+Ele.me	Sequoia Capital	B2B Express Delivery|E-Commerce	25000000	On-Demand	China	Horizons Ventures, GSR Ventures, Matrix Partners China	Unicorn (8/27/2015)
+Ele.me	Sequoia Capital	B2B Express Delivery|E-Commerce	350000000	On-Demand	China	Horizons Ventures, GSR Ventures, Matrix Partners China	Unicorn (8/27/2015)
+Ele.me	Sequoia Capital	B2B Express Delivery|E-Commerce	630000000	On-Demand	China	Horizons Ventures, GSR Ventures, Matrix Partners China	Unicorn (8/27/2015)
+Ele.me	Tencent Holdings	B2B Express Delivery|E-Commerce	350000000	On-Demand	China	Horizons Ventures, GSR Ventures, Matrix Partners China	Unicorn (8/27/2015)
+Ele.me	Tencent Holdings	B2B Express Delivery|E-Commerce	630000000	On-Demand	China	Horizons Ventures, GSR Ventures, Matrix Partners China	Unicorn (8/27/2015)
+Flatiron Health	BoxGroup	Health and Wellness|Health Care	8000000	Healthcare	USA	First Round Capital, Google Ventures, SV Angel	Raised Series C (1/6/2016)
+Flatiron Health	First Round	Health and Wellness|Health Care	130000000	Healthcare	USA	First Round Capital, Google Ventures, SV Angel	Raised Series C (1/6/2016)
+Flatiron Health	First Round	Health and Wellness|Health Care	8000000	Healthcare	USA	First Round Capital, Google Ventures, SV Angel	Raised Series C (1/6/2016)
+Flatiron Health	Google Ventures	Health and Wellness|Health Care	130000000	Healthcare	USA	First Round Capital, Google Ventures, SV Angel	Raised Series C (1/6/2016)
+Flatiron Health	Google Ventures	Health and Wellness|Health Care	8000000	Healthcare	USA	First Round Capital, Google Ventures, SV Angel	Raised Series C (1/6/2016)
+Flatiron Health	Great Oaks Venture Capital	Health and Wellness|Health Care	8000000	Healthcare	USA	First Round Capital, Google Ventures, SV Angel	Raised Series C (1/6/2016)
+Flatiron Health	IA Ventures	Health and Wellness|Health Care	8000000	Healthcare	USA	First Round Capital, Google Ventures, SV Angel	Raised Series C (1/6/2016)
+Flatiron Health	LabCorp	Health and Wellness|Health Care	130000000	Healthcare	USA	First Round Capital, Google Ventures, SV Angel	Raised Series C (1/6/2016)
+Flatiron Health	LabCorp	Health and Wellness|Health Care	8000000	Healthcare	USA	First Round Capital, Google Ventures, SV Angel	Raised Series C (1/6/2016)
+Flatiron Health	SV Angel	Health and Wellness|Health Care	8000000	Healthcare	USA	First Round Capital, Google Ventures, SV Angel	Raised Series C (1/6/2016)
+Flatiron Health	Social Capital	Health and Wellness|Health Care	8000000	Healthcare	USA	First Round Capital, Google Ventures, SV Angel	Raised Series C (1/6/2016)
+Freshdesk	Accel	Customer Service|Customer Support Tools|Software	1000000	Internet Software & Services	USA	Accel Partners, Google Capital, Tiger Global Management	
+Freshdesk	Accel	Customer Service|Customer Support Tools|Software	31000000	Internet Software & Services	USA	Accel Partners, Google Capital, Tiger Global Management	
+Freshdesk	Accel	Customer Service|Customer Support Tools|Software	5000000	Internet Software & Services	USA	Accel Partners, Google Capital, Tiger Global Management	
+Freshdesk	Accel	Customer Service|Customer Support Tools|Software	50000000	Internet Software & Services	USA	Accel Partners, Google Capital, Tiger Global Management	
+Freshdesk	Accel	Customer Service|Customer Support Tools|Software	6999930	Internet Software & Services	USA	Accel Partners, Google Capital, Tiger Global Management	
+Freshdesk	Google Capital	Customer Service|Customer Support Tools|Software	31000000	Internet Software & Services	USA	Accel Partners, Google Capital, Tiger Global Management	
+Freshdesk	Google Capital	Customer Service|Customer Support Tools|Software	50000000	Internet Software & Services	USA	Accel Partners, Google Capital, Tiger Global Management	
+Freshdesk	Tiger Global Management	Customer Service|Customer Support Tools|Software	31000000	Internet Software & Services	USA	Accel Partners, Google Capital, Tiger Global Management	
+Freshdesk	Tiger Global Management	Customer Service|Customer Support Tools|Software	5000000	Internet Software & Services	USA	Accel Partners, Google Capital, Tiger Global Management	
+Freshdesk	Tiger Global Management	Customer Service|Customer Support Tools|Software	50000000	Internet Software & Services	USA	Accel Partners, Google Capital, Tiger Global Management	
+Greenhouse Software	Benchmark	Recruiting|SaaS|Software	13900000	HR Tech	USA	Benchmark Capital, Thrive Capital, Resolute.vc	Raised Series C (8/24/2015)
+Greenhouse Software	Bill Lohse	Recruiting|SaaS|Software	2000000	HR Tech	USA	Benchmark Capital, Thrive Capital, Resolute.vc	Raised Series C (8/24/2015)
+Greenhouse Software	Felicis Ventures	Recruiting|SaaS|Software	13900000	HR Tech	USA	Benchmark Capital, Thrive Capital, Resolute.vc	Raised Series C (8/24/2015)
+Greenhouse Software	Felicis Ventures	Recruiting|SaaS|Software	7500000	HR Tech	USA	Benchmark Capital, Thrive Capital, Resolute.vc	Raised Series C (8/24/2015)
+Greenhouse Software	Groupe Arnault	Recruiting|SaaS|Software	35000000	HR Tech	USA	Benchmark Capital, Thrive Capital, Resolute.vc	Raised Series C (8/24/2015)
+Greenhouse Software	Lumia Capital	Recruiting|SaaS|Software	35000000	HR Tech	USA	Benchmark Capital, Thrive Capital, Resolute.vc	Raised Series C (8/24/2015)
+Greenhouse Software	Nick Ganju	Recruiting|SaaS|Software	2000000	HR Tech	USA	Benchmark Capital, Thrive Capital, Resolute.vc	Raised Series C (8/24/2015)
+Greenhouse Software	Resolute.vc	Recruiting|SaaS|Software	13900000	HR Tech	USA	Benchmark Capital, Thrive Capital, Resolute.vc	Raised Series C (8/24/2015)
+Greenhouse Software	Resolute.vc	Recruiting|SaaS|Software	2000000	HR Tech	USA	Benchmark Capital, Thrive Capital, Resolute.vc	Raised Series C (8/24/2015)
+Greenhouse Software	Resolute.vc	Recruiting|SaaS|Software	7500000	HR Tech	USA	Benchmark Capital, Thrive Capital, Resolute.vc	Raised Series C (8/24/2015)
+Greenhouse Software	Seth Goldstein	Recruiting|SaaS|Software	2000000	HR Tech	USA	Benchmark Capital, Thrive Capital, Resolute.vc	Raised Series C (8/24/2015)
+Greenhouse Software	Social Capital	Recruiting|SaaS|Software	13900000	HR Tech	USA	Benchmark Capital, Thrive Capital, Resolute.vc	Raised Series C (8/24/2015)
+Greenhouse Software	Social Capital	Recruiting|SaaS|Software	2000000	HR Tech	USA	Benchmark Capital, Thrive Capital, Resolute.vc	Raised Series C (8/24/2015)
+Greenhouse Software	Social Capital	Recruiting|SaaS|Software	35000000	HR Tech	USA	Benchmark Capital, Thrive Capital, Resolute.vc	Raised Series C (8/24/2015)
+Greenhouse Software	Social Capital	Recruiting|SaaS|Software	7500000	HR Tech	USA	Benchmark Capital, Thrive Capital, Resolute.vc	Raised Series C (8/24/2015)
+Greenhouse Software	Social Starts	Recruiting|SaaS|Software	700000	HR Tech	USA	Benchmark Capital, Thrive Capital, Resolute.vc	Raised Series C (8/24/2015)
+Greenhouse Software	Social Starts	Recruiting|SaaS|Software	7500000	HR Tech	USA	Benchmark Capital, Thrive Capital, Resolute.vc	Raised Series C (8/24/2015)
+Greenhouse Software	Thatcher Bell	Recruiting|SaaS|Software	2000000	HR Tech	USA	Benchmark Capital, Thrive Capital, Resolute.vc	Raised Series C (8/24/2015)
+Greenhouse Software	Thomas Lehrman	Recruiting|SaaS|Software	2000000	HR Tech	USA	Benchmark Capital, Thrive Capital, Resolute.vc	Raised Series C (8/24/2015)
+Greenhouse Software	Thrive Capital	Recruiting|SaaS|Software	35000000	HR Tech	USA	Benchmark Capital, Thrive Capital, Resolute.vc	Raised Series C (8/24/2015)
+Grofers	Sequoia Capital	Consumer Electronics|Groceries|Pharmaceuticals|Retail	10000000	On-Demand	India	Sequoia Capital India, Tiger Global Management	
+Grofers	Sequoia Capital	Consumer Electronics|Groceries|Pharmaceuticals|Retail	120000000	On-Demand	India	Sequoia Capital India, Tiger Global Management	
+Grofers	Sequoia Capital	Consumer Electronics|Groceries|Pharmaceuticals|Retail	35000000	On-Demand	India	Sequoia Capital India, Tiger Global Management	
+Grofers	Sequoia Capital	Consumer Electronics|Groceries|Pharmaceuticals|Retail	500000	On-Demand	India	Sequoia Capital India, Tiger Global Management	
+Grofers	SoftBank	Consumer Electronics|Groceries|Pharmaceuticals|Retail	120000000	On-Demand	India	Sequoia Capital India, Tiger Global Management	
+Grofers	Tiger Global Management	Consumer Electronics|Groceries|Pharmaceuticals|Retail	10000000	On-Demand	India	Sequoia Capital India, Tiger Global Management	
+Grofers	Tiger Global Management	Consumer Electronics|Groceries|Pharmaceuticals|Retail	120000000	On-Demand	India	Sequoia Capital India, Tiger Global Management	
+Grofers	Tiger Global Management	Consumer Electronics|Groceries|Pharmaceuticals|Retail	35000000	On-Demand	India	Sequoia Capital India, Tiger Global Management	
+Gusto	AFSquare	Financial Services|Personal Finance|Software	20000000	HR Tech	USA	Emergence Capital Partners, General Catalyst Partners, A-Grade	Unicorn (12/18/2015)
+Gusto	Aaron Levie	Financial Services|Personal Finance|Software	6100000	HR Tech	USA	Emergence Capital Partners, General Catalyst Partners, A-Grade	Unicorn (12/18/2015)
+Gusto	Altimeter Capital	Financial Services|Personal Finance|Software	60000000	HR Tech	USA	Emergence Capital Partners, General Catalyst Partners, A-Grade	Unicorn (12/18/2015)
+Gusto	Benjamin Ling	Financial Services|Personal Finance|Software	6100000	HR Tech	USA	Emergence Capital Partners, General Catalyst Partners, A-Grade	Unicorn (12/18/2015)
+Gusto	Bobby Yazdani	Financial Services|Personal Finance|Software	6100000	HR Tech	USA	Emergence Capital Partners, General Catalyst Partners, A-Grade	Unicorn (12/18/2015)
+Gusto	Dan Rose	Financial Services|Personal Finance|Software	6100000	HR Tech	USA	Emergence Capital Partners, General Catalyst Partners, A-Grade	Unicorn (12/18/2015)
+Gusto	Data Collective	Financial Services|Personal Finance|Software	6100000	HR Tech	USA	Emergence Capital Partners, General Catalyst Partners, A-Grade	Unicorn (12/18/2015)
+Gusto	David Sacks	Financial Services|Personal Finance|Software	6100000	HR Tech	USA	Emergence Capital Partners, General Catalyst Partners, A-Grade	Unicorn (12/18/2015)
+Gusto	Drew Houston	Financial Services|Personal Finance|Software	6100000	HR Tech	USA	Emergence Capital Partners, General Catalyst Partners, A-Grade	Unicorn (12/18/2015)
+Gusto	Elad Gil	Financial Services|Personal Finance|Software	6100000	HR Tech	USA	Emergence Capital Partners, General Catalyst Partners, A-Grade	Unicorn (12/18/2015)
+Gusto	Elevate Ventures	Mobile	1300000	HR Tech	USA	Emergence Capital Partners, General Catalyst Partners, A-Grade	Unicorn (12/18/2015)
+Gusto	Emergence Capital Partners	Financial Services|Personal Finance|Software	60000000	HR Tech	USA	Emergence Capital Partners, General Catalyst Partners, A-Grade	Unicorn (12/18/2015)
+Gusto	General Catalyst Partners	Financial Services|Personal Finance|Software	20000000	HR Tech	USA	Emergence Capital Partners, General Catalyst Partners, A-Grade	Unicorn (12/18/2015)
+Gusto	General Catalyst Partners	Financial Services|Personal Finance|Software	60000000	HR Tech	USA	Emergence Capital Partners, General Catalyst Partners, A-Grade	Unicorn (12/18/2015)
+Gusto	Glynn Capital Management	Financial Services|Personal Finance|Software	60000000	HR Tech	USA	Emergence Capital Partners, General Catalyst Partners, A-Grade	Unicorn (12/18/2015)
+Gusto	Google Capital	Financial Services|Personal Finance|Software	60000000	HR Tech	USA	Emergence Capital Partners, General Catalyst Partners, A-Grade	Unicorn (12/18/2015)
+Gusto	Google Ventures	Financial Services|Personal Finance|Software	6100000	HR Tech	USA	Emergence Capital Partners, General Catalyst Partners, A-Grade	Unicorn (12/18/2015)
+Gusto	Jawed Karim	Financial Services|Personal Finance|Software	6100000	HR Tech	USA	Emergence Capital Partners, General Catalyst Partners, A-Grade	Unicorn (12/18/2015)
+Gusto	Jeremy Stoppelman	Financial Services|Personal Finance|Software	6100000	HR Tech	USA	Emergence Capital Partners, General Catalyst Partners, A-Grade	Unicorn (12/18/2015)
+Gusto	Joshua Schachter	Financial Services|Personal Finance|Software	6100000	HR Tech	USA	Emergence Capital Partners, General Catalyst Partners, A-Grade	Unicorn (12/18/2015)
+Gusto	Julia Popowitz	Financial Services|Personal Finance|Software	6100000	HR Tech	USA	Emergence Capital Partners, General Catalyst Partners, A-Grade	Unicorn (12/18/2015)
+Gusto	Kleiner Perkins Caufield & Byers	Financial Services|Personal Finance|Software	20000000	HR Tech	USA	Emergence Capital Partners, General Catalyst Partners, A-Grade	Unicorn (12/18/2015)
+Gusto	Kleiner Perkins Caufield & Byers	Financial Services|Personal Finance|Software	60000000	HR Tech	USA	Emergence Capital Partners, General Catalyst Partners, A-Grade	Unicorn (12/18/2015)
+Gusto	Kris Duggan	Financial Services|Personal Finance|Software	6100000	HR Tech	USA	Emergence Capital Partners, General Catalyst Partners, A-Grade	Unicorn (12/18/2015)
+Gusto	Larry Augustin	Financial Services|Personal Finance|Software	6100000	HR Tech	USA	Emergence Capital Partners, General Catalyst Partners, A-Grade	Unicorn (12/18/2015)
+Gusto	Lee Linden	Financial Services|Personal Finance|Software	6100000	HR Tech	USA	Emergence Capital Partners, General Catalyst Partners, A-Grade	Unicorn (12/18/2015)
+Gusto	Mark Leslie	Financial Services|Personal Finance|Software	6100000	HR Tech	USA	Emergence Capital Partners, General Catalyst Partners, A-Grade	Unicorn (12/18/2015)
+Gusto	Obvious Ventures	Financial Services|Personal Finance|Software	20000000	HR Tech	USA	Emergence Capital Partners, General Catalyst Partners, A-Grade	Unicorn (12/18/2015)
+Gusto	Paul Buchheit	Financial Services|Personal Finance|Software	6100000	HR Tech	USA	Emergence Capital Partners, General Catalyst Partners, A-Grade	Unicorn (12/18/2015)
+Gusto	Pejman Nozad	Financial Services|Personal Finance|Software	6100000	HR Tech	USA	Emergence Capital Partners, General Catalyst Partners, A-Grade	Unicorn (12/18/2015)
+Gusto	Ram Shriram	Financial Services|Personal Finance|Software	6100000	HR Tech	USA	Emergence Capital Partners, General Catalyst Partners, A-Grade	Unicorn (12/18/2015)
+Gusto	Ribbit Capital	Financial Services|Personal Finance|Software	60000000	HR Tech	USA	Emergence Capital Partners, General Catalyst Partners, A-Grade	Unicorn (12/18/2015)
+Gusto	Salesforce Ventures	Financial Services|Personal Finance|Software	6100000	HR Tech	USA	Emergence Capital Partners, General Catalyst Partners, A-Grade	Unicorn (12/18/2015)
+Gusto	Sherpalo Ventures	Financial Services|Personal Finance|Software	6100000	HR Tech	USA	Emergence Capital Partners, General Catalyst Partners, A-Grade	Unicorn (12/18/2015)
+Gusto	Signatures Capital	Financial Services|Personal Finance|Software	6100000	HR Tech	USA	Emergence Capital Partners, General Catalyst Partners, A-Grade	Unicorn (12/18/2015)
+Gusto	Start Fund	Financial Services|Personal Finance|Software	6100000	HR Tech	USA	Emergence Capital Partners, General Catalyst Partners, A-Grade	Unicorn (12/18/2015)
+Gusto	Tien Tzuo	Financial Services|Personal Finance|Software	6100000	HR Tech	USA	Emergence Capital Partners, General Catalyst Partners, A-Grade	Unicorn (12/18/2015)
+Gusto	Y Combinator	Financial Services|Personal Finance|Software	6100000	HR Tech	USA	Emergence Capital Partners, General Catalyst Partners, A-Grade	Unicorn (12/18/2015)
+HelloFresh	Baillie Gifford	Content Delivery|Hospitality|Recipes|Specialty Foods	85000000	E-Commerce	Germany	Insight Venture Partners, Phenomen Ventures, Rocket Internet	Unicorn (9/17/2015)
+HelloFresh	HV Holtzbrinck Ventures	Content Delivery|Hospitality|Recipes|Specialty Foods	10000000	E-Commerce	Germany	Insight Venture Partners, Phenomen Ventures, Rocket Internet	Unicorn (9/17/2015)
+HelloFresh	HV Holtzbrinck Ventures	Content Delivery|Hospitality|Recipes|Specialty Foods	7500000	E-Commerce	Germany	Insight Venture Partners, Phenomen Ventures, Rocket Internet	Unicorn (9/17/2015)
+HelloFresh	Insight Venture Partners	Content Delivery|Hospitality|Recipes|Specialty Foods	50000000	E-Commerce	Germany	Insight Venture Partners, Phenomen Ventures, Rocket Internet	Unicorn (9/17/2015)
+HelloFresh	Investment AB Kinnevik	Content Delivery|Hospitality|Recipes|Specialty Foods	10000000	E-Commerce	Germany	Insight Venture Partners, Phenomen Ventures, Rocket Internet	Unicorn (9/17/2015)
+HelloFresh	Phenomen Ventures	Content Delivery|Hospitality|Recipes|Specialty Foods	50000000	E-Commerce	Germany	Insight Venture Partners, Phenomen Ventures, Rocket Internet	Unicorn (9/17/2015)
+HelloFresh	Phenomen Ventures	Content Delivery|Hospitality|Recipes|Specialty Foods	7500000	E-Commerce	Germany	Insight Venture Partners, Phenomen Ventures, Rocket Internet	Unicorn (9/17/2015)
+HelloFresh	Rocket Internet	Content Delivery|Hospitality|Recipes|Specialty Foods	10000000	E-Commerce	Germany	Insight Venture Partners, Phenomen Ventures, Rocket Internet	Unicorn (9/17/2015)
+HelloFresh	Rocket Internet	Content Delivery|Hospitality|Recipes|Specialty Foods	126000000	E-Commerce	Germany	Insight Venture Partners, Phenomen Ventures, Rocket Internet	Unicorn (9/17/2015)
+HelloFresh	Vorwerk Direct Selling Ventures	Content Delivery|Hospitality|Recipes|Specialty Foods	10000000	E-Commerce	Germany	Insight Venture Partners, Phenomen Ventures, Rocket Internet	Unicorn (9/17/2015)
+HelloFresh	Vorwerk Direct Selling Ventures	Content Delivery|Hospitality|Recipes|Specialty Foods	7500000	E-Commerce	Germany	Insight Venture Partners, Phenomen Ventures, Rocket Internet	Unicorn (9/17/2015)
+HotelTonight	Accel	Hotels|Mobile|Travel	23000000	On-Demand	USA	Accel Partners, Battery Ventures, GGV Capital	
+HotelTonight	Accel	Hotels|Mobile|Travel	3585000	On-Demand	USA	Accel Partners, Battery Ventures, GGV Capital	
+HotelTonight	Accel	Hotels|Mobile|Travel	45000000	On-Demand	USA	Accel Partners, Battery Ventures, GGV Capital	
+HotelTonight	Accel	Hotels|Mobile|Travel	9100000	On-Demand	USA	Accel Partners, Battery Ventures, GGV Capital	
+HotelTonight	Battery Ventures	Hotels|Mobile|Travel	23000000	On-Demand	USA	Accel Partners, Battery Ventures, GGV Capital	
+HotelTonight	Battery Ventures	Hotels|Mobile|Travel	3585000	On-Demand	USA	Accel Partners, Battery Ventures, GGV Capital	
+HotelTonight	Battery Ventures	Hotels|Mobile|Travel	45000000	On-Demand	USA	Accel Partners, Battery Ventures, GGV Capital	
+HotelTonight	Battery Ventures	Hotels|Mobile|Travel	9100000	On-Demand	USA	Accel Partners, Battery Ventures, GGV Capital	
+HotelTonight	Brad Gerstner	Hotels|Mobile|Travel	3585000	On-Demand	USA	Accel Partners, Battery Ventures, GGV Capital	
+HotelTonight	Coatue Management	Hotels|Mobile|Travel	45000000	On-Demand	USA	Accel Partners, Battery Ventures, GGV Capital	
+HotelTonight	Erik Blachford	Hotels|Mobile|Travel	3585000	On-Demand	USA	Accel Partners, Battery Ventures, GGV Capital	
+HotelTonight	First Round	Hotels|Mobile|Travel	23000000	On-Demand	USA	Accel Partners, Battery Ventures, GGV Capital	
+HotelTonight	First Round	Hotels|Mobile|Travel	3585000	On-Demand	USA	Accel Partners, Battery Ventures, GGV Capital	
+HotelTonight	First Round	Hotels|Mobile|Travel	45000000	On-Demand	USA	Accel Partners, Battery Ventures, GGV Capital	
+HotelTonight	First Round	Hotels|Mobile|Travel	9100000	On-Demand	USA	Accel Partners, Battery Ventures, GGV Capital	
+HotelTonight	Founder Collective	Hotels|Mobile|Travel	3585000	On-Demand	USA	Accel Partners, Battery Ventures, GGV Capital	
+HotelTonight	GGV Capital	Hotels|Mobile|Travel	45000000	On-Demand	USA	Accel Partners, Battery Ventures, GGV Capital	
+HotelTonight	Hugh Crean	Hotels|Mobile|Travel	3585000	On-Demand	USA	Accel Partners, Battery Ventures, GGV Capital	
+HotelTonight	Rich Barton	Hotels|Mobile|Travel	3585000	On-Demand	USA	Accel Partners, Battery Ventures, GGV Capital	
+HotelTonight	SV Angel	Hotels|Mobile|Travel	3585000	On-Demand	USA	Accel Partners, Battery Ventures, GGV Capital	
+HotelTonight	U.S. Venture Partners (USVP)	Hotels|Mobile|Travel	23000000	On-Demand	USA	Accel Partners, Battery Ventures, GGV Capital	
+HotelTonight	U.S. Venture Partners (USVP)	Hotels|Mobile|Travel	45000000	On-Demand	USA	Accel Partners, Battery Ventures, GGV Capital	
+Intercom	500 Startups	Software	1000000	Internet Software & Services	USA	The Social+Capital Partnership, Iconiq Capital, Bessemer Venture Partners	Raised Series C-II (4/7/2016)
+Intercom	500 Startups	Software	750000	Internet Software & Services	USA	The Social+Capital Partnership, Iconiq Capital, Bessemer Venture Partners	Raised Series C-II (4/7/2016)
+Intercom	Andy McLoughlin	Software	1000000	Internet Software & Services	USA	The Social+Capital Partnership, Iconiq Capital, Bessemer Venture Partners	Raised Series C-II (4/7/2016)
+Intercom	Bessemer Venture Partners	Software	23000000	Internet Software & Services	USA	The Social+Capital Partnership, Iconiq Capital, Bessemer Venture Partners	Raised Series C-II (4/7/2016)
+Intercom	Bessemer Venture Partners	Software	35000000	Internet Software & Services	USA	The Social+Capital Partnership, Iconiq Capital, Bessemer Venture Partners	Raised Series C-II (4/7/2016)
+Intercom	Biz Stone	Software	1000000	Internet Software & Services	USA	The Social+Capital Partnership, Iconiq Capital, Bessemer Venture Partners	Raised Series C-II (4/7/2016)
+Intercom	Caelen King	Software	1000000	Internet Software & Services	USA	The Social+Capital Partnership, Iconiq Capital, Bessemer Venture Partners	Raised Series C-II (4/7/2016)
+Intercom	Conor Stanley	Software	1000000	Internet Software & Services	USA	The Social+Capital Partnership, Iconiq Capital, Bessemer Venture Partners	Raised Series C-II (4/7/2016)
+Intercom	DG Incubation	Software	1000000	Internet Software & Services	USA	The Social+Capital Partnership, Iconiq Capital, Bessemer Venture Partners	Raised Series C-II (4/7/2016)
+Intercom	Dan Martell	Software	1000000	Internet Software & Services	USA	The Social+Capital Partnership, Iconiq Capital, Bessemer Venture Partners	Raised Series C-II (4/7/2016)
+Intercom	David Coallier	Software	1000000	Internet Software & Services	USA	The Social+Capital Partnership, Iconiq Capital, Bessemer Venture Partners	Raised Series C-II (4/7/2016)
+Intercom	David Hauser	Software	1000000	Internet Software & Services	USA	The Social+Capital Partnership, Iconiq Capital, Bessemer Venture Partners	Raised Series C-II (4/7/2016)
+Intercom	David Sacks	Software	6000000	Internet Software & Services	USA	The Social+Capital Partnership, Iconiq Capital, Bessemer Venture Partners	Raised Series C-II (4/7/2016)
+Intercom	Digital Garage	Software	1000000	Internet Software & Services	USA	The Social+Capital Partnership, Iconiq Capital, Bessemer Venture Partners	Raised Series C-II (4/7/2016)
+Intercom	Eamon Leonard	Software	1000000	Internet Software & Services	USA	The Social+Capital Partnership, Iconiq Capital, Bessemer Venture Partners	Raised Series C-II (4/7/2016)
+Intercom	Freestyle Capital	Software	6000000	Internet Software & Services	USA	The Social+Capital Partnership, Iconiq Capital, Bessemer Venture Partners	Raised Series C-II (4/7/2016)
+Intercom	Freestyle Capital	Software	750000	Internet Software & Services	USA	The Social+Capital Partnership, Iconiq Capital, Bessemer Venture Partners	Raised Series C-II (4/7/2016)
+Intercom	Iconiq Capital	Software	35000000	Internet Software & Services	USA	The Social+Capital Partnership, Iconiq Capital, Bessemer Venture Partners	Raised Series C-II (4/7/2016)
+Intercom	Jonathan Siegel	Software	1000000	Internet Software & Services	USA	The Social+Capital Partnership, Iconiq Capital, Bessemer Venture Partners	Raised Series C-II (4/7/2016)
+Intercom	Jonathan Strauss	Software	1000000	Internet Software & Services	USA	The Social+Capital Partnership, Iconiq Capital, Bessemer Venture Partners	Raised Series C-II (4/7/2016)
+Intercom	Oyster Technology Investments	Software	1000000	Internet Software & Services	USA	The Social+Capital Partnership, Iconiq Capital, Bessemer Venture Partners	Raised Series C-II (4/7/2016)
+Intercom	Paddy Holahan	Software	1000000	Internet Software & Services	USA	The Social+Capital Partnership, Iconiq Capital, Bessemer Venture Partners	Raised Series C-II (4/7/2016)
+Intercom	Roham Gharegozlou	Software	1000000	Internet Software & Services	USA	The Social+Capital Partnership, Iconiq Capital, Bessemer Venture Partners	Raised Series C-II (4/7/2016)
+Intercom	Social Capital	Software	23000000	Internet Software & Services	USA	The Social+Capital Partnership, Iconiq Capital, Bessemer Venture Partners	Raised Series C-II (4/7/2016)
+Intercom	Social Capital	Software	35000000	Internet Software & Services	USA	The Social+Capital Partnership, Iconiq Capital, Bessemer Venture Partners	Raised Series C-II (4/7/2016)
+Intercom	Social Capital	Software	6000000	Internet Software & Services	USA	The Social+Capital Partnership, Iconiq Capital, Bessemer Venture Partners	Raised Series C-II (4/7/2016)
+Intercom	Stuart Coulson	Software	1000000	Internet Software & Services	USA	The Social+Capital Partnership, Iconiq Capital, Bessemer Venture Partners	Raised Series C-II (4/7/2016)
+Mixpanel	Andreessen Horowitz	Mobile Analytics	10250000	Internet Software & Services	USA	Andreessen Horowitz, Sequoia Capital, Y Combinator	
+Mixpanel	Andreessen Horowitz	Mobile Analytics	65000000	Internet Software & Services	USA	Andreessen Horowitz, Sequoia Capital, Y Combinator	
+Mixpanel	David Sacks	Mobile Analytics	10250000	Internet Software & Services	USA	Andreessen Horowitz, Sequoia Capital, Y Combinator	
+Mixpanel	Keith Rabois	Mobile Analytics	1250000	Internet Software & Services	USA	Andreessen Horowitz, Sequoia Capital, Y Combinator	
+Mixpanel	Marc Benioff	Mobile Analytics	10250000	Internet Software & Services	USA	Andreessen Horowitz, Sequoia Capital, Y Combinator	
+Mixpanel	Max Levchin	Mobile Analytics	10250000	Internet Software & Services	USA	Andreessen Horowitz, Sequoia Capital, Y Combinator	
+Mixpanel	Max Levchin	Mobile Analytics	1250000	Internet Software & Services	USA	Andreessen Horowitz, Sequoia Capital, Y Combinator	
+Mixpanel	Max Levchin	Mobile Analytics	500000	Internet Software & Services	USA	Andreessen Horowitz, Sequoia Capital, Y Combinator	
+Mixpanel	Michael Birch	Mobile Analytics	1250000	Internet Software & Services	USA	Andreessen Horowitz, Sequoia Capital, Y Combinator	
+Mixpanel	Michael Birch	Mobile Analytics	500000	Internet Software & Services	USA	Andreessen Horowitz, Sequoia Capital, Y Combinator	
+Mixpanel	Sequoia Capital	Mobile Analytics	1250000	Internet Software & Services	USA	Andreessen Horowitz, Sequoia Capital, Y Combinator	
+Mixpanel	Sequoia Capital	Mobile Analytics	15000	Internet Software & Services	USA	Andreessen Horowitz, Sequoia Capital, Y Combinator	
+Mixpanel	Y Combinator	Mobile Analytics	15000	Internet Software & Services	USA	Andreessen Horowitz, Sequoia Capital, Y Combinator	
+Munchery	137 Ventures	Hospitality	85000000	E-Commerce	USA	Greycroft Partners, Menlo Ventures, Sherpa Ventures	
+Munchery	Anthony Saleh	Hospitality	28000000	E-Commerce	USA	Greycroft Partners, Menlo Ventures, Sherpa Ventures	
+Munchery	Anthos Capital	Hospitality	200000	E-Commerce	USA	Greycroft Partners, Menlo Ventures, Sherpa Ventures	
+Munchery	Bobby Yazdani	Hospitality	28000000	E-Commerce	USA	Greycroft Partners, Menlo Ventures, Sherpa Ventures	
+Munchery	Eric Ries	Hospitality	4000000	E-Commerce	USA	Greycroft Partners, Menlo Ventures, Sherpa Ventures	
+Munchery	Greycroft Partners	Hospitality	85000000	E-Commerce	USA	Greycroft Partners, Menlo Ventures, Sherpa Ventures	
+Munchery	Howard Behar	Hospitality	4000000	E-Commerce	USA	Greycroft Partners, Menlo Ventures, Sherpa Ventures	
+Munchery	Jon Favreau	Hospitality	28000000	E-Commerce	USA	Greycroft Partners, Menlo Ventures, Sherpa Ventures	
+Munchery	Justin Mateen	Hospitality	28000000	E-Commerce	USA	Greycroft Partners, Menlo Ventures, Sherpa Ventures	
+Munchery	Matt Mullenweg	Hospitality	4000000	E-Commerce	USA	Greycroft Partners, Menlo Ventures, Sherpa Ventures	
+Munchery	Menlo Ventures	Hospitality	200000	E-Commerce	USA	Greycroft Partners, Menlo Ventures, Sherpa Ventures	
+Munchery	Menlo Ventures	Hospitality	28000000	E-Commerce	USA	Greycroft Partners, Menlo Ventures, Sherpa Ventures	
+Munchery	Menlo Ventures	Hospitality	4000000	E-Commerce	USA	Greycroft Partners, Menlo Ventures, Sherpa Ventures	
+Munchery	Menlo Ventures	Hospitality	85000000	E-Commerce	USA	Greycroft Partners, Menlo Ventures, Sherpa Ventures	
+Munchery	Mousse Partners	Hospitality	85000000	E-Commerce	USA	Greycroft Partners, Menlo Ventures, Sherpa Ventures	
+Munchery	Northgate Capital	Hospitality	85000000	E-Commerce	USA	Greycroft Partners, Menlo Ventures, Sherpa Ventures	
+Munchery	Roadstruck	Hospitality	28000000	E-Commerce	USA	Greycroft Partners, Menlo Ventures, Sherpa Ventures	
+Munchery	Roy Choi	Hospitality	28000000	E-Commerce	USA	Greycroft Partners, Menlo Ventures, Sherpa Ventures	
+Munchery	Sherpa Capital	Hospitality	200000	E-Commerce	USA	Greycroft Partners, Menlo Ventures, Sherpa Ventures	
+Munchery	Sherpa Capital	Hospitality	28000000	E-Commerce	USA	Greycroft Partners, Menlo Ventures, Sherpa Ventures	
+Munchery	Sherpa Capital	Hospitality	4000000	E-Commerce	USA	Greycroft Partners, Menlo Ventures, Sherpa Ventures	
+Munchery	Sherpa Capital	Hospitality	85000000	E-Commerce	USA	Greycroft Partners, Menlo Ventures, Sherpa Ventures	
+Munchery	Signatures Capital	Hospitality	28000000	E-Commerce	USA	Greycroft Partners, Menlo Ventures, Sherpa Ventures	
+Munchery	Tom Peterson	Hospitality	4000000	E-Commerce	USA	Greycroft Partners, Menlo Ventures, Sherpa Ventures	
+Munchery	e.ventures	Hospitality	28000000	E-Commerce	USA	Greycroft Partners, Menlo Ventures, Sherpa Ventures	
+Munchery	e.ventures	Hospitality	4000000	E-Commerce	USA	Greycroft Partners, Menlo Ventures, Sherpa Ventures	
+Munchery	e.ventures	Hospitality	85000000	E-Commerce	USA	Greycroft Partners, Menlo Ventures, Sherpa Ventures	
+OYO Rooms	DSG Consumer Partners	Hospitality|Online Reservations	650000	Internet Software & Services	India	Sequoia Capital India, Lightspeed Venture Partners, Softbank Corp.	
+OYO Rooms	Greenoaks Capital	Hospitality|Online Reservations	100000000	Internet Software & Services	India	Sequoia Capital India, Lightspeed Venture Partners, Softbank Corp.	
+OYO Rooms	Greenoaks Capital	Hospitality|Online Reservations	25000000	Internet Software & Services	India	Sequoia Capital India, Lightspeed Venture Partners, Softbank Corp.	
+OYO Rooms	Lightspeed	Hospitality|Online Reservations	650000	Internet Software & Services	India	Sequoia Capital India, Lightspeed Venture Partners, Softbank Corp.	
+OYO Rooms	Lightspeed Venture Partners	Hospitality|Online Reservations	100000000	Internet Software & Services	India	Sequoia Capital India, Lightspeed Venture Partners, Softbank Corp.	
+OYO Rooms	Lightspeed Venture Partners	Hospitality|Online Reservations	25000000	Internet Software & Services	India	Sequoia Capital India, Lightspeed Venture Partners, Softbank Corp.	
+OYO Rooms	Sequoia Capital	Hospitality|Online Reservations	100000000	Internet Software & Services	India	Sequoia Capital India, Lightspeed Venture Partners, Softbank Corp.	
+OYO Rooms	Sequoia Capital	Hospitality|Online Reservations	25000000	Internet Software & Services	India	Sequoia Capital India, Lightspeed Venture Partners, Softbank Corp.	
+OYO Rooms	SoftBank	Hospitality|Online Reservations	100000000	Internet Software & Services	India	Sequoia Capital India, Lightspeed Venture Partners, Softbank Corp.	
+Okta	Altimeter Capital	Enterprise Software	75000000	Cybersecurity	USA	Greylock Partners, Khosla Ventures, Floodgate	Unicorn (9/8/2015)
+Okta	Altimeter Capital	Enterprise Software	75000000	Cybersecurity	USA	Greylock Partners, Khosla Ventures, Floodgate	Unicorn (9/8/2015)
+Okta	Andreessen Horowitz	Enterprise Software	10000000	Cybersecurity	USA	Greylock Partners, Khosla Ventures, Floodgate	Unicorn (9/8/2015)
+Okta	Andreessen Horowitz	Enterprise Software	16500000	Cybersecurity	USA	Greylock Partners, Khosla Ventures, Floodgate	Unicorn (9/8/2015)
+Okta	Andreessen Horowitz	Enterprise Software	25000000	Cybersecurity	USA	Greylock Partners, Khosla Ventures, Floodgate	Unicorn (9/8/2015)
+Okta	Andreessen Horowitz	Enterprise Software	27000000	Cybersecurity	USA	Greylock Partners, Khosla Ventures, Floodgate	Unicorn (9/8/2015)
+Okta	Andreessen Horowitz	Enterprise Software	75000000	Cybersecurity	USA	Greylock Partners, Khosla Ventures, Floodgate	Unicorn (9/8/2015)
+Okta	Andreessen Horowitz	Enterprise Software	75000000	Cybersecurity	USA	Greylock Partners, Khosla Ventures, Floodgate	Unicorn (9/8/2015)
+Okta	Avid Larizadeh	Enterprise Software	10000000	Cybersecurity	USA	Greylock Partners, Khosla Ventures, Floodgate	Unicorn (9/8/2015)
+Okta	Dharmesh Shah	Enterprise Software	10000000	Cybersecurity	USA	Greylock Partners, Khosla Ventures, Floodgate	Unicorn (9/8/2015)
+Okta	Ed Roberts	Enterprise Software	16500000	Cybersecurity	USA	Greylock Partners, Khosla Ventures, Floodgate	Unicorn (9/8/2015)
+Okta	FLOODGATE	Enterprise Software	10000000	Cybersecurity	USA	Greylock Partners, Khosla Ventures, Floodgate	Unicorn (9/8/2015)
+Okta	FLOODGATE	Enterprise Software	16500000	Cybersecurity	USA	Greylock Partners, Khosla Ventures, Floodgate	Unicorn (9/8/2015)
+Okta	Glynn Capital Management	Enterprise Software	75000000	Cybersecurity	USA	Greylock Partners, Khosla Ventures, Floodgate	Unicorn (9/8/2015)
+Okta	Greylock Partners	Enterprise Software	16500000	Cybersecurity	USA	Greylock Partners, Khosla Ventures, Floodgate	Unicorn (9/8/2015)
+Okta	Greylock Partners	Enterprise Software	25000000	Cybersecurity	USA	Greylock Partners, Khosla Ventures, Floodgate	Unicorn (9/8/2015)
+Okta	Greylock Partners	Enterprise Software	27000000	Cybersecurity	USA	Greylock Partners, Khosla Ventures, Floodgate	Unicorn (9/8/2015)
+Okta	Greylock Partners	Enterprise Software	75000000	Cybersecurity	USA	Greylock Partners, Khosla Ventures, Floodgate	Unicorn (9/8/2015)
+Okta	Greylock Partners	Enterprise Software	75000000	Cybersecurity	USA	Greylock Partners, Khosla Ventures, Floodgate	Unicorn (9/8/2015)
+Okta	Jacques & Sandra Kerrest	Enterprise Software	16500000	Cybersecurity	USA	Greylock Partners, Khosla Ventures, Floodgate	Unicorn (9/8/2015)
+Okta	Janus Capital Group	Enterprise Software	75000000	Cybersecurity	USA	Greylock Partners, Khosla Ventures, Floodgate	Unicorn (9/8/2015)
+Okta	Khosla Ventures	Enterprise Software	16500000	Cybersecurity	USA	Greylock Partners, Khosla Ventures, Floodgate	Unicorn (9/8/2015)
+Okta	Khosla Ventures	Enterprise Software	25000000	Cybersecurity	USA	Greylock Partners, Khosla Ventures, Floodgate	Unicorn (9/8/2015)
+Okta	Khosla Ventures	Enterprise Software	27000000	Cybersecurity	USA	Greylock Partners, Khosla Ventures, Floodgate	Unicorn (9/8/2015)
+Okta	Khosla Ventures	Enterprise Software	75000000	Cybersecurity	USA	Greylock Partners, Khosla Ventures, Floodgate	Unicorn (9/8/2015)
+Okta	Khosla Ventures	Enterprise Software	75000000	Cybersecurity	USA	Greylock Partners, Khosla Ventures, Floodgate	Unicorn (9/8/2015)
+Okta	Maynard Webb	Enterprise Software	10000000	Cybersecurity	USA	Greylock Partners, Khosla Ventures, Floodgate	Unicorn (9/8/2015)
+Okta	SV Angel	Enterprise Software	10000000	Cybersecurity	USA	Greylock Partners, Khosla Ventures, Floodgate	Unicorn (9/8/2015)
+Okta	Sequoia Capital	Enterprise Software	25000000	Cybersecurity	USA	Greylock Partners, Khosla Ventures, Floodgate	Unicorn (9/8/2015)
+Okta	Sequoia Capital	Enterprise Software	27000000	Cybersecurity	USA	Greylock Partners, Khosla Ventures, Floodgate	Unicorn (9/8/2015)
+Okta	Sequoia Capital	Enterprise Software	75000000	Cybersecurity	USA	Greylock Partners, Khosla Ventures, Floodgate	Unicorn (9/8/2015)
+Okta	Sequoia Capital	Enterprise Software	75000000	Cybersecurity	USA	Greylock Partners, Khosla Ventures, Floodgate	Unicorn (9/8/2015)
+Okta	Stephen Marcus	Enterprise Software	10000000	Cybersecurity	USA	Greylock Partners, Khosla Ventures, Floodgate	Unicorn (9/8/2015)
+Okta	Tom Berson	Enterprise Software	16500000	Cybersecurity	USA	Greylock Partners, Khosla Ventures, Floodgate	Unicorn (9/8/2015)
+Okta	Webb Investment Network	Enterprise Software	16500000	Cybersecurity	USA	Greylock Partners, Khosla Ventures, Floodgate	Unicorn (9/8/2015)
+One Medical Group	Benchmark	Doctors|Health Care|Medical	15000000	Healthcare	USA	Benchmark Capital, DAG Ventures, Oak Investment Partners	Raised Series H (12/8/2015)
+One Medical Group	Benchmark	Doctors|Health Care|Medical	20000000	Healthcare	USA	Benchmark Capital, DAG Ventures, Oak Investment Partners	Raised Series H (12/8/2015)
+One Medical Group	Benchmark	Doctors|Health Care|Medical	30000000	Healthcare	USA	Benchmark Capital, DAG Ventures, Oak Investment Partners	Raised Series H (12/8/2015)
+One Medical Group	Benchmark	Doctors|Health Care|Medical	3500000	Healthcare	USA	Benchmark Capital, DAG Ventures, Oak Investment Partners	Raised Series H (12/8/2015)
+One Medical Group	Benchmark	Doctors|Health Care|Medical	40000000	Healthcare	USA	Benchmark Capital, DAG Ventures, Oak Investment Partners	Raised Series H (12/8/2015)
+One Medical Group	Benchmark	Doctors|Health Care|Medical	8000000	Healthcare	USA	Benchmark Capital, DAG Ventures, Oak Investment Partners	Raised Series H (12/8/2015)
+One Medical Group	DAG Ventures	Doctors|Health Care|Medical	15000000	Healthcare	USA	Benchmark Capital, DAG Ventures, Oak Investment Partners	Raised Series H (12/8/2015)
+One Medical Group	DAG Ventures	Doctors|Health Care|Medical	20000000	Healthcare	USA	Benchmark Capital, DAG Ventures, Oak Investment Partners	Raised Series H (12/8/2015)
+One Medical Group	DAG Ventures	Doctors|Health Care|Medical	40000000	Healthcare	USA	Benchmark Capital, DAG Ventures, Oak Investment Partners	Raised Series H (12/8/2015)
+One Medical Group	DAG Ventures	Doctors|Health Care|Medical	8000000	Healthcare	USA	Benchmark Capital, DAG Ventures, Oak Investment Partners	Raised Series H (12/8/2015)
+One Medical Group	Google Ventures	Doctors|Health Care|Medical	30000000	Healthcare	USA	Benchmark Capital, DAG Ventures, Oak Investment Partners	Raised Series H (12/8/2015)
+One Medical Group	Google Ventures	Doctors|Health Care|Medical	40000000	Healthcare	USA	Benchmark Capital, DAG Ventures, Oak Investment Partners	Raised Series H (12/8/2015)
+One Medical Group	Maverick Capital	Doctors|Health Care|Medical	20000000	Healthcare	USA	Benchmark Capital, DAG Ventures, Oak Investment Partners	Raised Series H (12/8/2015)
+One Medical Group	Maverick Capital	Doctors|Health Care|Medical	30000000	Healthcare	USA	Benchmark Capital, DAG Ventures, Oak Investment Partners	Raised Series H (12/8/2015)
+One Medical Group	Maverick Capital	Doctors|Health Care|Medical	40000000	Healthcare	USA	Benchmark Capital, DAG Ventures, Oak Investment Partners	Raised Series H (12/8/2015)
+One Medical Group	Oak Investment Partners	Doctors|Health Care|Medical	15000000	Healthcare	USA	Benchmark Capital, DAG Ventures, Oak Investment Partners	Raised Series H (12/8/2015)
+One Medical Group	Oak Investment Partners	Doctors|Health Care|Medical	20000000	Healthcare	USA	Benchmark Capital, DAG Ventures, Oak Investment Partners	Raised Series H (12/8/2015)
+One Medical Group	Oak Investment Partners	Doctors|Health Care|Medical	30000000	Healthcare	USA	Benchmark Capital, DAG Ventures, Oak Investment Partners	Raised Series H (12/8/2015)
+One Medical Group	Oak Investment Partners	Doctors|Health Care|Medical	40000000	Healthcare	USA	Benchmark Capital, DAG Ventures, Oak Investment Partners	Raised Series H (12/8/2015)
+One Medical Group	Redmile Group	Doctors|Health Care|Medical	40000000	Healthcare	USA	Benchmark Capital, DAG Ventures, Oak Investment Partners	Raised Series H (12/8/2015)
+Optimizely	Andreessen Horowitz	Ad Targeting|Internet Marketing|Personalization|Software	57000000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+Optimizely	Andreessen Horowitz	Ad Targeting|Internet Marketing|Personalization|Software	58000000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+Optimizely	Ariel Poler	Ad Targeting|Internet Marketing|Personalization|Software	1200000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+Optimizely	Ashton Kutcher	Ad Targeting|Internet Marketing|Personalization|Software	1200000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+Optimizely	Avichal Garg	Ad Targeting|Internet Marketing|Personalization|Software	1200000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+Optimizely	Bain Capital Ventures	Ad Targeting|Internet Marketing|Personalization|Software	28000000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+Optimizely	Bain Capital Ventures	Ad Targeting|Internet Marketing|Personalization|Software	57000000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+Optimizely	Bain Capital Ventures	Ad Targeting|Internet Marketing|Personalization|Software	58000000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+Optimizely	Battery Ventures	Ad Targeting|Internet Marketing|Personalization|Software	2000000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+Optimizely	Battery Ventures	Ad Targeting|Internet Marketing|Personalization|Software	28000000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+Optimizely	Battery Ventures	Ad Targeting|Internet Marketing|Personalization|Software	58000000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+Optimizely	Benchmark	Ad Targeting|Internet Marketing|Personalization|Software	28000000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+Optimizely	Benchmark	Ad Targeting|Internet Marketing|Personalization|Software	57000000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+Optimizely	Benchmark	Ad Targeting|Internet Marketing|Personalization|Software	58000000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+Optimizely	Brian Sugar	Ad Targeting|Internet Marketing|Personalization|Software	1200000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+Optimizely	Chris Dixon	Ad Targeting|Internet Marketing|Personalization|Software	1200000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+Optimizely	Chris Sacca	Ad Targeting|Internet Marketing|Personalization|Software	1200000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+Optimizely	Citi Ventures	Ad Targeting|Internet Marketing|Personalization|Software	58000000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+Optimizely	Correlation Ventures	Ad Targeting|Internet Marketing|Personalization|Software	58000000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+Optimizely	Danhua Capital	Ad Targeting|Internet Marketing|Personalization|Software	58000000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+Optimizely	Deep Nishar	Ad Targeting|Internet Marketing|Personalization|Software	1200000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+Optimizely	Elad Gil	Ad Targeting|Internet Marketing|Personalization|Software	1200000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+Optimizely	Felicis Ventures	Ad Targeting|Internet Marketing|Personalization|Software	2000000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+Optimizely	Founder Collective	Ad Targeting|Internet Marketing|Personalization|Software	1200000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+Optimizely	Founder Collective	Ad Targeting|Internet Marketing|Personalization|Software	28000000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+Optimizely	Google Ventures	Ad Targeting|Internet Marketing|Personalization|Software	2000000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+Optimizely	Google Ventures	Ad Targeting|Internet Marketing|Personalization|Software	28000000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+Optimizely	Index Ventures	Ad Targeting|Internet Marketing|Personalization|Software	58000000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+Optimizely	InterWest Partners	Ad Targeting|Internet Marketing|Personalization|Software	2000000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+Optimizely	InterWest Partners	Ad Targeting|Internet Marketing|Personalization|Software	28000000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+Optimizely	Jonathan Heiliger	Ad Targeting|Internet Marketing|Personalization|Software	1200000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+Optimizely	Joshua Schachter	Ad Targeting|Internet Marketing|Personalization|Software	1200000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+Optimizely	Keval Desai	Ad Targeting|Internet Marketing|Personalization|Software	1200000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+Optimizely	Mitchell Kapor	Ad Targeting|Internet Marketing|Personalization|Software	1200000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+Optimizely	Naval Ravikant	Ad Targeting|Internet Marketing|Personalization|Software	1200000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+Optimizely	Nils Johnson	Ad Targeting|Internet Marketing|Personalization|Software	1200000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+Optimizely	Paul Buchheit	Ad Targeting|Internet Marketing|Personalization|Software	1200000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+Optimizely	Pharus Capital Management	Ad Targeting|Internet Marketing|Personalization|Software	58000000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+Optimizely	Ram Shriram	Ad Targeting|Internet Marketing|Personalization|Software	1200000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+Optimizely	Raymond Tonsing	Ad Targeting|Internet Marketing|Personalization|Software	2000000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+Optimizely	Ron Conway	Ad Targeting|Internet Marketing|Personalization|Software	1200000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+Optimizely	Salesforce Ventures	Ad Targeting|Internet Marketing|Personalization|Software	58000000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+Optimizely	Sam Altman	Ad Targeting|Internet Marketing|Personalization|Software	1200000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+Optimizely	Steve Chen	Ad Targeting|Internet Marketing|Personalization|Software	1200000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+Optimizely	Steve Huffman	Ad Targeting|Internet Marketing|Personalization|Software	1200000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+Optimizely	Tenaya Capital	Ad Targeting|Internet Marketing|Personalization|Software	58000000	Internet Software & Services	USA	Bain Capital Ventures, Kapor Capital, Lowercase Capital	Raised Series C (10/13/2015)
+PillPack	Accel	Finance|FinTech|Health Care	50000000	Healthcare	USA	Slow Ventures, Accomplice, Founder Collective	
+PillPack	Accel	Finance|FinTech|Health Care	8750000	Healthcare	USA	Slow Ventures, Accomplice, Founder Collective	
+PillPack	Andy Palmer	Finance|FinTech|Health Care	3500000	Healthcare	USA	Slow Ventures, Accomplice, Founder Collective	
+PillPack	Andy Palmer	Finance|FinTech|Health Care	550000	Healthcare	USA	Slow Ventures, Accomplice, Founder Collective	
+PillPack	Andy Palmer	Finance|FinTech|Health Care	8750000	Healthcare	USA	Slow Ventures, Accomplice, Founder Collective	
+PillPack	Atlas Venture	Finance|FinTech|Health Care	3500000	Healthcare	USA	Slow Ventures, Accomplice, Founder Collective	
+PillPack	Atlas Venture	Finance|FinTech|Health Care	50000000	Healthcare	USA	Slow Ventures, Accomplice, Founder Collective	
+PillPack	Atlas Venture	Finance|FinTech|Health Care	8750000	Healthcare	USA	Slow Ventures, Accomplice, Founder Collective	
+PillPack	BoxGroup	Finance|FinTech|Health Care	3500000	Healthcare	USA	Slow Ventures, Accomplice, Founder Collective	
+PillPack	BoxGroup	Finance|FinTech|Health Care	550000	Healthcare	USA	Slow Ventures, Accomplice, Founder Collective	
+PillPack	CRV	Finance|FinTech|Health Care	50000000	Healthcare	USA	Slow Ventures, Accomplice, Founder Collective	
+PillPack	David Tisch	Finance|FinTech|Health Care	8750000	Healthcare	USA	Slow Ventures, Accomplice, Founder Collective	
+PillPack	Founder Collective	Finance|FinTech|Health Care	3500000	Healthcare	USA	Slow Ventures, Accomplice, Founder Collective	
+PillPack	Founder Collective	Finance|FinTech|Health Care	550000	Healthcare	USA	Slow Ventures, Accomplice, Founder Collective	
+PillPack	High Line Venture Partners	Finance|FinTech|Health Care	8750000	Healthcare	USA	Slow Ventures, Accomplice, Founder Collective	
+PillPack	IDEO	Finance|FinTech|Health Care	3500000	Healthcare	USA	Slow Ventures, Accomplice, Founder Collective	
+PillPack	Kevin Colleran	Finance|FinTech|Health Care	8750000	Healthcare	USA	Slow Ventures, Accomplice, Founder Collective	
+PillPack	Lucy McAllister	Finance|FinTech|Health Care	3500000	Healthcare	USA	Slow Ventures, Accomplice, Founder Collective	
+PillPack	Lucy McQuilken	Finance|FinTech|Health Care	3500000	Healthcare	USA	Slow Ventures, Accomplice, Founder Collective	
+PillPack	Lucy McQuilken	Finance|FinTech|Health Care	550000	Healthcare	USA	Slow Ventures, Accomplice, Founder Collective	
+PillPack	Menlo Ventures	Finance|FinTech|Health Care	50000000	Healthcare	USA	Slow Ventures, Accomplice, Founder Collective	
+PillPack	QueensBridge Venture Partners	Finance|FinTech|Health Care	8750000	Healthcare	USA	Slow Ventures, Accomplice, Founder Collective	
+PillPack	Sherpa Capital	Finance|FinTech|Health Care	50000000	Healthcare	USA	Slow Ventures, Accomplice, Founder Collective	
+PillPack	Slow Ventures	Finance|FinTech|Health Care	8750000	Healthcare	USA	Slow Ventures, Accomplice, Founder Collective	
+PillPack	Sridhar Iyengar	Finance|FinTech|Health Care	3500000	Healthcare	USA	Slow Ventures, Accomplice, Founder Collective	
+PillPack	Sridhar Iyengar	Finance|FinTech|Health Care	550000	Healthcare	USA	Slow Ventures, Accomplice, Founder Collective	
+PillPack	Techstars	Finance|FinTech|Health Care	3500000	Healthcare	USA	Slow Ventures, Accomplice, Founder Collective	
+PillPack	Techstars	Finance|FinTech|Health Care	550000	Healthcare	USA	Slow Ventures, Accomplice, Founder Collective	
+PillPack	Walt Winshall	Finance|FinTech|Health Care	550000	Healthcare	USA	Slow Ventures, Accomplice, Founder Collective	
+PillPack	Walter Winshall	Finance|FinTech|Health Care	3500000	Healthcare	USA	Slow Ventures, Accomplice, Founder Collective	
+PillPack	Zen Chu	Finance|FinTech|Health Care	3500000	Healthcare	USA	Slow Ventures, Accomplice, Founder Collective	
+PillPack	Zen Chu	Finance|FinTech|Health Care	550000	Healthcare	USA	Slow Ventures, Accomplice, Founder Collective	
+Planet Labs	AME Cloud Ventures	Aerospace|Geospatial	52000000	Drones/Satellites	USA	Lux Capital, Data Collective, Industry Ventures	
+Planet Labs	AME Cloud Ventures	Aerospace|Geospatial	70000000	Drones/Satellites	USA	Lux Capital, Data Collective, Industry Ventures	
+Planet Labs	Capricorn Investment Group	Aerospace|Geospatial	13100000	Drones/Satellites	USA	Lux Capital, Data Collective, Industry Ventures	
+Planet Labs	Capricorn Investment Group	Aerospace|Geospatial	52000000	Drones/Satellites	USA	Lux Capital, Data Collective, Industry Ventures	
+Planet Labs	Capricorn Investment Group	Aerospace|Geospatial	70000000	Drones/Satellites	USA	Lux Capital, Data Collective, Industry Ventures	
+Planet Labs	Data Collective	Aerospace|Geospatial	13100000	Drones/Satellites	USA	Lux Capital, Data Collective, Industry Ventures	
+Planet Labs	Data Collective	Aerospace|Geospatial	52000000	Drones/Satellites	USA	Lux Capital, Data Collective, Industry Ventures	
+Planet Labs	Data Collective	Aerospace|Geospatial	70000000	Drones/Satellites	USA	Lux Capital, Data Collective, Industry Ventures	
+Planet Labs	Draper Fisher Jurvetson (DFJ)	Aerospace|Geospatial	13100000	Drones/Satellites	USA	Lux Capital, Data Collective, Industry Ventures	
+Planet Labs	Draper Fisher Jurvetson (DFJ)	Aerospace|Geospatial	52000000	Drones/Satellites	USA	Lux Capital, Data Collective, Industry Ventures	
+Planet Labs	Draper Fisher Jurvetson (DFJ)	Aerospace|Geospatial	70000000	Drones/Satellites	USA	Lux Capital, Data Collective, Industry Ventures	
+Planet Labs	FF Angel LLC	Aerospace|Geospatial	13100000	Drones/Satellites	USA	Lux Capital, Data Collective, Industry Ventures	
+Planet Labs	Felicis Ventures	Aerospace|Geospatial	52000000	Drones/Satellites	USA	Lux Capital, Data Collective, Industry Ventures	
+Planet Labs	Felicis Ventures	Aerospace|Geospatial	70000000	Drones/Satellites	USA	Lux Capital, Data Collective, Industry Ventures	
+Planet Labs	First Round	Aerospace|Geospatial	13100000	Drones/Satellites	USA	Lux Capital, Data Collective, Industry Ventures	
+Planet Labs	First Round	Aerospace|Geospatial	52000000	Drones/Satellites	USA	Lux Capital, Data Collective, Industry Ventures	
+Planet Labs	First Round	Aerospace|Geospatial	70000000	Drones/Satellites	USA	Lux Capital, Data Collective, Industry Ventures	
+Planet Labs	Founders Fund	Aerospace|Geospatial	52000000	Drones/Satellites	USA	Lux Capital, Data Collective, Industry Ventures	
+Planet Labs	Founders Fund	Aerospace|Geospatial	70000000	Drones/Satellites	USA	Lux Capital, Data Collective, Industry Ventures	
+Planet Labs	Industry Ventures	Aerospace|Geospatial	52000000	Drones/Satellites	USA	Lux Capital, Data Collective, Industry Ventures	
+Planet Labs	Industry Ventures	Aerospace|Geospatial	70000000	Drones/Satellites	USA	Lux Capital, Data Collective, Industry Ventures	
+Planet Labs	Innovation Endeavors	Aerospace|Geospatial	13100000	Drones/Satellites	USA	Lux Capital, Data Collective, Industry Ventures	
+Planet Labs	Innovation Endeavors	Aerospace|Geospatial	52000000	Drones/Satellites	USA	Lux Capital, Data Collective, Industry Ventures	
+Planet Labs	Innovation Endeavors	Aerospace|Geospatial	70000000	Drones/Satellites	USA	Lux Capital, Data Collective, Industry Ventures	
+Planet Labs	International Finance Corporation	Aerospace|Geospatial	23000000	Drones/Satellites	USA	Lux Capital, Data Collective, Industry Ventures	
+Planet Labs	Lux Capital	Aerospace|Geospatial	52000000	Drones/Satellites	USA	Lux Capital, Data Collective, Industry Ventures	
+Planet Labs	Lux Capital	Aerospace|Geospatial	70000000	Drones/Satellites	USA	Lux Capital, Data Collective, Industry Ventures	
+Planet Labs	O'Reilly AlphaTech Ventures	Aerospace|Geospatial	13100000	Drones/Satellites	USA	Lux Capital, Data Collective, Industry Ventures	
+Planet Labs	O'Reilly AlphaTech Ventures	Aerospace|Geospatial	52000000	Drones/Satellites	USA	Lux Capital, Data Collective, Industry Ventures	
+Planet Labs	O'Reilly AlphaTech Ventures	Aerospace|Geospatial	70000000	Drones/Satellites	USA	Lux Capital, Data Collective, Industry Ventures	
+Planet Labs	Ray Rothrock	Aerospace|Geospatial	52000000	Drones/Satellites	USA	Lux Capital, Data Collective, Industry Ventures	
+Planet Labs	Ray Rothrock	Aerospace|Geospatial	70000000	Drones/Satellites	USA	Lux Capital, Data Collective, Industry Ventures	
+Planet Labs	Space Angels Network	Aerospace|Geospatial	23000000	Drones/Satellites	USA	Lux Capital, Data Collective, Industry Ventures	
+Planet Labs	Syngenta Ventures	Aerospace|Geospatial	70000000	Drones/Satellites	USA	Lux Capital, Data Collective, Industry Ventures	
+Planet Labs	Western Technology Investment	Aerospace|Geospatial	25000000	Drones/Satellites	USA	Lux Capital, Data Collective, Industry Ventures	
+Planet Labs	Yuri Milner	Aerospace|Geospatial	52000000	Drones/Satellites	USA	Lux Capital, Data Collective, Industry Ventures	
+Planet Labs	Yuri Milner	Aerospace|Geospatial	70000000	Drones/Satellites	USA	Lux Capital, Data Collective, Industry Ventures	
+Practice Fusion	ARTIS Ventures	Electronic Health Records|Health and Wellness|Health Care|Physicians	15000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	ARTIS Ventures	Electronic Health Records|Health and Wellness|Health Care|Physicians	23000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	ARTIS Ventures	Electronic Health Records|Health and Wellness|Health Care|Physicians	34000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	ARTIS Ventures	Electronic Health Records|Health and Wellness|Health Care|Physicians	70000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	Ali Partovi	Electronic Health Records|Health and Wellness|Health Care|Physicians	2000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	Ali Partovi	Electronic Health Records|Health and Wellness|Health Care|Physicians	34000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	Ali Partovi	Electronic Health Records|Health and Wellness|Health Care|Physicians	6000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	Auren Hoffman	Electronic Health Records|Health and Wellness|Health Care|Physicians	34000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	Auren Hoffman	Electronic Health Records|Health and Wellness|Health Care|Physicians	6000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	Band of Angels	Electronic Health Records|Health and Wellness|Health Care|Physicians	15000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	Band of Angels	Electronic Health Records|Health and Wellness|Health Care|Physicians	34000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	Band of Angels	Electronic Health Records|Health and Wellness|Health Care|Physicians	5019998	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	Band of Angels	Electronic Health Records|Health and Wellness|Health Care|Physicians	70000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	David Wu	Electronic Health Records|Health and Wellness|Health Care|Physicians	5019998	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	Deerfield Capital Management	Electronic Health Records|Health and Wellness|Health Care|Physicians	70000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	Farzad (Zod) Nazem	Electronic Health Records|Health and Wellness|Health Care|Physicians	34000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	Felicis Ventures	Electronic Health Records|Health and Wellness|Health Care|Physicians	23000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	Felicis Ventures	Electronic Health Records|Health and Wellness|Health Care|Physicians	34000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	Felicis Ventures	Electronic Health Records|Health and Wellness|Health Care|Physicians	5019998	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	Felicis Ventures	Electronic Health Records|Health and Wellness|Health Care|Physicians	70000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	Founders Fund	Electronic Health Records|Health and Wellness|Health Care|Physicians	23000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	Founders Fund	Electronic Health Records|Health and Wellness|Health Care|Physicians	34000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	Founders Fund	Electronic Health Records|Health and Wellness|Health Care|Physicians	6000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	Ghost Angel	Electronic Health Records|Health and Wellness|Health Care|Physicians	34000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	Glynn Capital Management	Electronic Health Records|Health and Wellness|Health Care|Physicians	23000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	Glynn Capital Management	Electronic Health Records|Health and Wellness|Health Care|Physicians	34000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	Glynn Capital Management	Electronic Health Records|Health and Wellness|Health Care|Physicians	6000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	Glynn Capital Management	Electronic Health Records|Health and Wellness|Health Care|Physicians	70000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	Goldcrest Investments	Electronic Health Records|Health and Wellness|Health Care|Physicians	70000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	Hadi Partovi	Electronic Health Records|Health and Wellness|Health Care|Physicians	2000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	Hadi Partovi	Electronic Health Records|Health and Wellness|Health Care|Physicians	34000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	Hadi Partovi	Electronic Health Records|Health and Wellness|Health Care|Physicians	6000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	Industry Ventures	Electronic Health Records|Health and Wellness|Health Care|Physicians	15000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	Jed Stremel	Electronic Health Records|Health and Wellness|Health Care|Physicians	2000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	Kleiner Perkins Caufield & Byers	Electronic Health Records|Health and Wellness|Health Care|Physicians	70000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	Longitude Capital	Electronic Health Records|Health and Wellness|Health Care|Physicians	15000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	Mark Goines	Electronic Health Records|Health and Wellness|Health Care|Physicians	5019998	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	Morgenthaler Ventures	Electronic Health Records|Health and Wellness|Health Care|Physicians	23000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	Morgenthaler Ventures	Electronic Health Records|Health and Wellness|Health Care|Physicians	34000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	Morgenthaler Ventures	Electronic Health Records|Health and Wellness|Health Care|Physicians	5019998	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	Morgenthaler Ventures	Electronic Health Records|Health and Wellness|Health Care|Physicians	6000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	Morgenthaler Ventures	Electronic Health Records|Health and Wellness|Health Care|Physicians	70000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	OrbiMed Advisors	Electronic Health Records|Health and Wellness|Health Care|Physicians	70000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	Qualcomm Ventures	Electronic Health Records|Health and Wellness|Health Care|Physicians	15000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	SV Angel	Electronic Health Records|Health and Wellness|Health Care|Physicians	34000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	SV Angel	Electronic Health Records|Health and Wellness|Health Care|Physicians	6000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	Salesforce Ventures	Electronic Health Records|Health and Wellness|Health Care|Physicians	5019998	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	Scott Banister	Electronic Health Records|Health and Wellness|Health Care|Physicians	34000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	Scott Banister	Electronic Health Records|Health and Wellness|Health Care|Physicians	6000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	SharesPost Investment Management	Electronic Health Records|Health and Wellness|Health Care|Physicians	2500000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	Stuart Peterson	Electronic Health Records|Health and Wellness|Health Care|Physicians	34000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	The R-Group, LLC	Electronic Health Records|Health and Wellness|Health Care|Physicians	70000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Practice Fusion	Western Technology Investment	Electronic Health Records|Health and Wellness|Health Care|Physicians	6000000	Healthcare	USA	Artis Ventures, KPCB, Industry Ventures	
+Privia Health	Health Enterprise Partners	Doctors|Electronic Health Records|Health and Wellness|Medical|Physicians	12300000	Healthcare	USA	Goldman Sachs, Health Enterprise Partners	
+Raise Marketplace	Accel	Curated Web|E-Commerce|Gift Card	62000000	E-Commerce	USA	Bessemer Venture Partners, Listen Ventures, New Enterprise Associates	
+Raise Marketplace	Bessemer Venture Partners	Curated Web|E-Commerce|Gift Card	18100000	E-Commerce	USA	Bessemer Venture Partners, Listen Ventures, New Enterprise Associates	
+Raise Marketplace	Bessemer Venture Partners	Curated Web|E-Commerce|Gift Card	62000000	E-Commerce	USA	Bessemer Venture Partners, Listen Ventures, New Enterprise Associates	
+Raise Marketplace	Eleni Bousis	Curated Web|E-Commerce|Gift Card	4500000	E-Commerce	USA	Bessemer Venture Partners, Listen Ventures, New Enterprise Associates	
+Raise Marketplace	George Bousis	Curated Web|E-Commerce|Gift Card	600000	E-Commerce	USA	Bessemer Venture Partners, Listen Ventures, New Enterprise Associates	
+Raise Marketplace	Jason Pritzker	Curated Web|E-Commerce|Gift Card	4500000	E-Commerce	USA	Bessemer Venture Partners, Listen Ventures, New Enterprise Associates	
+Raise Marketplace	Jeff Cantalupo	Curated Web|E-Commerce|Gift Card	4500000	E-Commerce	USA	Bessemer Venture Partners, Listen Ventures, New Enterprise Associates	
+Raise Marketplace	Jeff Cantalupo	Curated Web|E-Commerce|Gift Card	600000	E-Commerce	USA	Bessemer Venture Partners, Listen Ventures, New Enterprise Associates	
+Raise Marketplace	Listen Ventures	Curated Web|E-Commerce|Gift Card	18100000	E-Commerce	USA	Bessemer Venture Partners, Listen Ventures, New Enterprise Associates	
+Raise Marketplace	Listen Ventures	Curated Web|E-Commerce|Gift Card	62000000	E-Commerce	USA	Bessemer Venture Partners, Listen Ventures, New Enterprise Associates	
+Raise Marketplace	New Enterprise Associates	Curated Web|E-Commerce|Gift Card	62000000	E-Commerce	USA	Bessemer Venture Partners, Listen Ventures, New Enterprise Associates	
+Raise Marketplace	The Pritzker Organization	Curated Web|E-Commerce|Gift Card	18100000	E-Commerce	USA	Bessemer Venture Partners, Listen Ventures, New Enterprise Associates	
+Raise Marketplace	The Pritzker Organization	Curated Web|E-Commerce|Gift Card	4500000	E-Commerce	USA	Bessemer Venture Partners, Listen Ventures, New Enterprise Associates	
+Raise Marketplace	The Pritzker Organization	Curated Web|E-Commerce|Gift Card	62000000	E-Commerce	USA	Bessemer Venture Partners, Listen Ventures, New Enterprise Associates	
+Skyhigh Networks	Greylock Partners	Cloud Security|Data Security|Enterprise Software|Information Security	20000000	Cybersecurity	USA	Greylock Partners, Salesforce Ventures, Sequoia Capital	
+Skyhigh Networks	Greylock Partners	Cloud Security|Data Security|Enterprise Software|Information Security	40000000	Cybersecurity	USA	Greylock Partners, Salesforce Ventures, Sequoia Capital	
+Skyhigh Networks	Greylock Partners	Cloud Security|Data Security|Enterprise Software|Information Security	6500000	Cybersecurity	USA	Greylock Partners, Salesforce Ventures, Sequoia Capital	
+Skyhigh Networks	Salesforce Ventures	Cloud Security|Data Security|Enterprise Software|Information Security	40000000	Cybersecurity	USA	Greylock Partners, Salesforce Ventures, Sequoia Capital	
+Skyhigh Networks	Sequoia Capital	Cloud Security|Data Security|Enterprise Software|Information Security	20000000	Cybersecurity	USA	Greylock Partners, Salesforce Ventures, Sequoia Capital	
+Skyhigh Networks	Sequoia Capital	Cloud Security|Data Security|Enterprise Software|Information Security	40000000	Cybersecurity	USA	Greylock Partners, Salesforce Ventures, Sequoia Capital	
+Sonos	Elevation Partners	Consumer Electronics|Hardware + Software|iPhone|Music|Wireless	135000000	Hardware	USA	Index Ventures, e.ventures, Elevation Partners	
+Sonos	Index Ventures	Consumer Electronics|Hardware + Software|iPhone|Music|Wireless	25000000	Hardware	USA	Index Ventures, e.ventures, Elevation Partners	
+Sonos	Index Ventures	Consumer Electronics|Hardware + Software|iPhone|Music|Wireless	25000000	Hardware	USA	Index Ventures, e.ventures, Elevation Partners	
+Sonos	KKR (Kohlberg Kravis Roberts & Co.)	Consumer Electronics|Hardware + Software|iPhone|Music|Wireless	135000000	Hardware	USA	Index Ventures, e.ventures, Elevation Partners	
+Sonos	KKR (Kohlberg Kravis Roberts & Co.)	Consumer Electronics|Hardware + Software|iPhone|Music|Wireless	25000000	Hardware	USA	Index Ventures, e.ventures, Elevation Partners	
+Sonos	Redpoint Ventures	Consumer Electronics|Hardware + Software|iPhone|Music|Wireless	135000000	Hardware	USA	Index Ventures, e.ventures, Elevation Partners	
+Sonos	e.ventures	Consumer Electronics|Hardware + Software|iPhone|Music|Wireless	15000000	Hardware	USA	Index Ventures, e.ventures, Elevation Partners	
+Sonos	e.ventures	Consumer Electronics|Hardware + Software|iPhone|Music|Wireless	17900000	Hardware	USA	Index Ventures, e.ventures, Elevation Partners	
+Sonos	e.ventures	Consumer Electronics|Hardware + Software|iPhone|Music|Wireless	4800000	Hardware	USA	Index Ventures, e.ventures, Elevation Partners	
+Squarespace	Accel	Blogging Platforms|Content|Curated Web|Internet|Software|Web CMS|Web Design	38500000	Internet Software & Services	USA	Accel Partners, Index Ventures, General Atlantic	
+Squarespace	General Atlantic	Blogging Platforms|Content|Curated Web|Internet|Software|Web CMS|Web Design	40000000	Internet Software & Services	USA	Accel Partners, Index Ventures, General Atlantic	
+Squarespace	Index Ventures	Blogging Platforms|Content|Curated Web|Internet|Software|Web CMS|Web Design	38500000	Internet Software & Services	USA	Accel Partners, Index Ventures, General Atlantic	
+Stack Exchange	Andreessen Horowitz	Databases|Software	40000000	Internet Software & Services	USA	Spark Capital, SV Angel, Founder Collective	
+Stack Exchange	Bezos Expeditions	Databases|Software	10000000	Internet Software & Services	USA	Spark Capital, SV Angel, Founder Collective	
+Stack Exchange	Bezos Expeditions	Databases|Software	40000000	Internet Software & Services	USA	Spark Capital, SV Angel, Founder Collective	
+Stack Exchange	Bob Pasker	Databases|Software	6000000	Internet Software & Services	USA	Spark Capital, SV Angel, Founder Collective	
+Stack Exchange	Caterina Fake	Databases|Software	6000000	Internet Software & Services	USA	Spark Capital, SV Angel, Founder Collective	
+Stack Exchange	Chris Dixon	Databases|Software	6000000	Internet Software & Services	USA	Spark Capital, SV Angel, Founder Collective	
+Stack Exchange	Dharmesh Shah	Databases|Software	6000000	Internet Software & Services	USA	Spark Capital, SV Angel, Founder Collective	
+Stack Exchange	Founder Collective	Databases|Software	6000000	Internet Software & Services	USA	Spark Capital, SV Angel, Founder Collective	
+Stack Exchange	Index Ventures	Databases|Software	12000000	Internet Software & Services	USA	Spark Capital, SV Angel, Founder Collective	
+Stack Exchange	Index Ventures	Databases|Software	40000000	Internet Software & Services	USA	Spark Capital, SV Angel, Founder Collective	
+Stack Exchange	Joshua Schachter	Databases|Software	6000000	Internet Software & Services	USA	Spark Capital, SV Angel, Founder Collective	
+Stack Exchange	Micah Siegel	Databases|Software	6000000	Internet Software & Services	USA	Spark Capital, SV Angel, Founder Collective	
+Stack Exchange	Naval Ravikant	Databases|Software	6000000	Internet Software & Services	USA	Spark Capital, SV Angel, Founder Collective	
+Stack Exchange	Nirav Tolia	Databases|Software	6000000	Internet Software & Services	USA	Spark Capital, SV Angel, Founder Collective	
+Stack Exchange	Ron Conway	Databases|Software	6000000	Internet Software & Services	USA	Spark Capital, SV Angel, Founder Collective	
+Stack Exchange	Spark Capital	Databases|Software	12000000	Internet Software & Services	USA	Spark Capital, SV Angel, Founder Collective	
+Stack Exchange	Spark Capital	Databases|Software	40000000	Internet Software & Services	USA	Spark Capital, SV Angel, Founder Collective	
+Stack Exchange	Union Square Ventures	Databases|Software	12000000	Internet Software & Services	USA	Spark Capital, SV Angel, Founder Collective	
+Stack Exchange	Union Square Ventures	Databases|Software	40000000	Internet Software & Services	USA	Spark Capital, SV Angel, Founder Collective	
+Stack Exchange	Union Square Ventures	Databases|Software	6000000	Internet Software & Services	USA	Spark Capital, SV Angel, Founder Collective	
+Stitch Fix	Baseline Ventures	E-Commerce|Fashion|Retail|Reviews and Recommendations|Subscription Businesses	30000000	E-Commerce	USA	Baseline Ventures, Benchmark Capital, Lightspeed Venture Partners	
+Stitch Fix	Baseline Ventures	E-Commerce|Fashion|Retail|Reviews and Recommendations|Subscription Businesses	4750000	E-Commerce	USA	Baseline Ventures, Benchmark Capital, Lightspeed Venture Partners	
+Stitch Fix	Benchmark	E-Commerce|Fashion|Retail|Reviews and Recommendations|Subscription Businesses	12000000	E-Commerce	USA	Baseline Ventures, Benchmark Capital, Lightspeed Venture Partners	
+Stitch Fix	Benchmark	E-Commerce|Fashion|Retail|Reviews and Recommendations|Subscription Businesses	30000000	E-Commerce	USA	Baseline Ventures, Benchmark Capital, Lightspeed Venture Partners	
+Stitch Fix	Lightspeed Venture Partners	E-Commerce|Fashion|Retail|Reviews and Recommendations|Subscription Businesses	30000000	E-Commerce	USA	Baseline Ventures, Benchmark Capital, Lightspeed Venture Partners	
+Stitch Fix	Lightspeed Venture Partners	E-Commerce|Fashion|Retail|Reviews and Recommendations|Subscription Businesses	4750000	E-Commerce	USA	Baseline Ventures, Benchmark Capital, Lightspeed Venture Partners	
+Stitch Fix	Western Technology Investment	E-Commerce|Fashion|Retail|Reviews and Recommendations|Subscription Businesses	30000000	E-Commerce	USA	Baseline Ventures, Benchmark Capital, Lightspeed Venture Partners	
+Stitch Fix	Western Technology Investment	E-Commerce|Fashion|Retail|Reviews and Recommendations|Subscription Businesses	4750000	E-Commerce	USA	Baseline Ventures, Benchmark Capital, Lightspeed Venture Partners	
+Taboola	Advance Publications	Advertising|Content|Content Discovery|Curated Web|Video	117000000	Internet Software & Services	USA	Comcast Ventures, Pitango Venture Capital, Baidu	
+Taboola	Carlo de Benedetti	Advertising|Content|Content Discovery|Curated Web|Video	117000000	Internet Software & Services	USA	Comcast Ventures, Pitango Venture Capital, Baidu	
+Taboola	Comcast Ventures	Advertising|Content|Content Discovery|Curated Web|Video	117000000	Internet Software & Services	USA	Comcast Ventures, Pitango Venture Capital, Baidu	
+Taboola	Crescent Point Energy	Advertising|Content|Content Discovery|Curated Web|Video	9000000	Internet Software & Services	USA	Comcast Ventures, Pitango Venture Capital, Baidu	
+Taboola	Daily Mail	Advertising|Content|Content Discovery|Curated Web|Video	3000000	Internet Software & Services	USA	Comcast Ventures, Pitango Venture Capital, Baidu	
+Taboola	Evergreen Venture Partners	Advertising|Content|Content Discovery|Curated Web|Video	1500000	Internet Software & Services	USA	Comcast Ventures, Pitango Venture Capital, Baidu	
+Taboola	Evergreen Venture Partners	Advertising|Content|Content Discovery|Curated Web|Video	15000000	Internet Software & Services	USA	Comcast Ventures, Pitango Venture Capital, Baidu	
+Taboola	Evergreen Venture Partners	Advertising|Content|Content Discovery|Curated Web|Video	4500000	Internet Software & Services	USA	Comcast Ventures, Pitango Venture Capital, Baidu	
+Taboola	Evergreen Venture Partners	Advertising|Content|Content Discovery|Curated Web|Video	9000000	Internet Software & Services	USA	Comcast Ventures, Pitango Venture Capital, Baidu	
+Taboola	Eyal Gura	Advertising|Content|Content Discovery|Curated Web|Video	15000000	Internet Software & Services	USA	Comcast Ventures, Pitango Venture Capital, Baidu	
+Taboola	Fidelity Management & Research	Advertising|Content|Content Discovery|Curated Web|Video	117000000	Internet Software & Services	USA	Comcast Ventures, Pitango Venture Capital, Baidu	
+Taboola	Groupe Arnault	Advertising|Content|Content Discovery|Curated Web|Video	117000000	Internet Software & Services	USA	Comcast Ventures, Pitango Venture Capital, Baidu	
+Taboola	Marker	Advertising|Content|Content Discovery|Curated Web|Video	10000000	Internet Software & Services	USA	Comcast Ventures, Pitango Venture Capital, Baidu	
+Taboola	Marker	Advertising|Content|Content Discovery|Curated Web|Video	117000000	Internet Software & Services	USA	Comcast Ventures, Pitango Venture Capital, Baidu	
+Taboola	Marker	Advertising|Content|Content Discovery|Curated Web|Video	15000000	Internet Software & Services	USA	Comcast Ventures, Pitango Venture Capital, Baidu	
+Taboola	Marker	Advertising|Content|Content Discovery|Curated Web|Video	9000000	Internet Software & Services	USA	Comcast Ventures, Pitango Venture Capital, Baidu	
+Taboola	Pitango Venture Capital	Advertising|Content|Content Discovery|Curated Web|Video	15000000	Internet Software & Services	USA	Comcast Ventures, Pitango Venture Capital, Baidu	
+Taboola	WGI Group	Advertising|Content|Content Discovery|Curated Web|Video	15000000	Internet Software & Services	USA	Comcast Ventures, Pitango Venture Capital, Baidu	
+Taboola	Yahoo! JAPAN	Advertising|Content|Content Discovery|Curated Web|Video	117000000	Internet Software & Services	USA	Comcast Ventures, Pitango Venture Capital, Baidu	
+Thumbtack	Ali Partovi	Curated Web|Service Providers	1200000	E-Commerce	USA	Sequoia Capital, MHS Capital, Google Capital	Unicorn (9/29/2015)
+Thumbtack	Ariel Poler	Curated Web|Service Providers	1200000	E-Commerce	USA	Sequoia Capital, MHS Capital, Google Capital	Unicorn (9/29/2015)
+Thumbtack	Auren Hoffman	Curated Web|Service Providers	1200000	E-Commerce	USA	Sequoia Capital, MHS Capital, Google Capital	Unicorn (9/29/2015)
+Thumbtack	Baillie Gifford	Curated Web|Service Providers	125000000	E-Commerce	USA	Sequoia Capital, MHS Capital, Google Capital	Unicorn (9/29/2015)
+Thumbtack	Cyan Banister	Curated Web|Service Providers	1200000	E-Commerce	USA	Sequoia Capital, MHS Capital, Google Capital	Unicorn (9/29/2015)
+Thumbtack	Denis Grosz	Curated Web|Service Providers	1200000	E-Commerce	USA	Sequoia Capital, MHS Capital, Google Capital	Unicorn (9/29/2015)
+Thumbtack	Draper Associates	Curated Web|Service Providers	4500000	E-Commerce	USA	Sequoia Capital, MHS Capital, Google Capital	Unicorn (9/29/2015)
+Thumbtack	Google Capital	Curated Web|Service Providers	100000000	E-Commerce	USA	Sequoia Capital, MHS Capital, Google Capital	Unicorn (9/29/2015)
+Thumbtack	Google Capital	Curated Web|Service Providers	125000000	E-Commerce	USA	Sequoia Capital, MHS Capital, Google Capital	Unicorn (9/29/2015)
+Thumbtack	Hadi Partovi	Curated Web|Service Providers	1200000	E-Commerce	USA	Sequoia Capital, MHS Capital, Google Capital	Unicorn (9/29/2015)
+Thumbtack	Jason Calacanis	Curated Web|Service Providers	1200000	E-Commerce	USA	Sequoia Capital, MHS Capital, Google Capital	Unicorn (9/29/2015)
+Thumbtack	Javelin Venture Partners	Curated Web|Service Providers	100000000	E-Commerce	USA	Sequoia Capital, MHS Capital, Google Capital	Unicorn (9/29/2015)
+Thumbtack	Javelin Venture Partners	Curated Web|Service Providers	12500000	E-Commerce	USA	Sequoia Capital, MHS Capital, Google Capital	Unicorn (9/29/2015)
+Thumbtack	Javelin Venture Partners	Curated Web|Service Providers	125000000	E-Commerce	USA	Sequoia Capital, MHS Capital, Google Capital	Unicorn (9/29/2015)
+Thumbtack	Javelin Venture Partners	Curated Web|Service Providers	30000000	E-Commerce	USA	Sequoia Capital, MHS Capital, Google Capital	Unicorn (9/29/2015)
+Thumbtack	Javelin Venture Partners	Curated Web|Service Providers	4500000	E-Commerce	USA	Sequoia Capital, MHS Capital, Google Capital	Unicorn (9/29/2015)
+Thumbtack	Jim Lanzone	Curated Web|Service Providers	1200000	E-Commerce	USA	Sequoia Capital, MHS Capital, Google Capital	Unicorn (9/29/2015)
+Thumbtack	Joshua Schachter	Curated Web|Service Providers	1200000	E-Commerce	USA	Sequoia Capital, MHS Capital, Google Capital	Unicorn (9/29/2015)
+Thumbtack	MHS Capital	Curated Web|Service Providers	4500000	E-Commerce	USA	Sequoia Capital, MHS Capital, Google Capital	Unicorn (9/29/2015)
+Thumbtack	Mark Britto	Curated Web|Service Providers	1200000	E-Commerce	USA	Sequoia Capital, MHS Capital, Google Capital	Unicorn (9/29/2015)
+Thumbtack	Mark Goines	Curated Web|Service Providers	1200000	E-Commerce	USA	Sequoia Capital, MHS Capital, Google Capital	Unicorn (9/29/2015)
+Thumbtack	Scott Banister	Curated Web|Service Providers	1200000	E-Commerce	USA	Sequoia Capital, MHS Capital, Google Capital	Unicorn (9/29/2015)
+Thumbtack	Scott Faber	Curated Web|Service Providers	1200000	E-Commerce	USA	Sequoia Capital, MHS Capital, Google Capital	Unicorn (9/29/2015)
+Thumbtack	Sequoia Capital	Curated Web|Service Providers	100000000	E-Commerce	USA	Sequoia Capital, MHS Capital, Google Capital	Unicorn (9/29/2015)
+Thumbtack	Sequoia Capital	Curated Web|Service Providers	12500000	E-Commerce	USA	Sequoia Capital, MHS Capital, Google Capital	Unicorn (9/29/2015)
+Thumbtack	Sequoia Capital	Curated Web|Service Providers	125000000	E-Commerce	USA	Sequoia Capital, MHS Capital, Google Capital	Unicorn (9/29/2015)
+Thumbtack	Sequoia Capital	Curated Web|Service Providers	30000000	E-Commerce	USA	Sequoia Capital, MHS Capital, Google Capital	Unicorn (9/29/2015)
+Thumbtack	Tiger Global Management	Curated Web|Service Providers	100000000	E-Commerce	USA	Sequoia Capital, MHS Capital, Google Capital	Unicorn (9/29/2015)
+Thumbtack	Tiger Global Management	Curated Web|Service Providers	125000000	E-Commerce	USA	Sequoia Capital, MHS Capital, Google Capital	Unicorn (9/29/2015)
+Thumbtack	Tiger Global Management	Curated Web|Service Providers	30000000	E-Commerce	USA	Sequoia Capital, MHS Capital, Google Capital	Unicorn (9/29/2015)
+Thumbtack	Yan-David Erlich	Curated Web|Service Providers	1200000	E-Commerce	USA	Sequoia Capital, MHS Capital, Google Capital	Unicorn (9/29/2015)
+Upwork (formerly Elance-oDesk)	Benchmark	Crowdsourcing|Curated Web|Employment|Freelancers|Human Resources|Staffing Firms|Virtual Workforces	15000000	HR Tech	USA	Jackson Square Ventures, Benchmark Capital, Stripes Group	
+Upwork (formerly Elance-oDesk)	Benchmark	Crowdsourcing|Curated Web|Employment|Freelancers|Human Resources|Staffing Firms|Virtual Workforces	15000000	HR Tech	USA	Jackson Square Ventures, Benchmark Capital, Stripes Group	
+Upwork (formerly Elance-oDesk)	Benchmark	Crowdsourcing|Curated Web|Employment|Freelancers|Human Resources|Staffing Firms|Virtual Workforces	30000000	HR Tech	USA	Jackson Square Ventures, Benchmark Capital, Stripes Group	
+Upwork (formerly Elance-oDesk)	Benchmark	Crowdsourcing|Curated Web|Employment|Freelancers|Human Resources|Staffing Firms|Virtual Workforces	8000000	HR Tech	USA	Jackson Square Ventures, Benchmark Capital, Stripes Group	
+Upwork (formerly Elance-oDesk)	DAG Ventures	Crowdsourcing|Curated Web|Employment|Freelancers|Human Resources|Staffing Firms|Virtual Workforces	15000000	HR Tech	USA	Jackson Square Ventures, Benchmark Capital, Stripes Group	
+Upwork (formerly Elance-oDesk)	FirstMark Capital	Crowdsourcing|Curated Web|Employment|Freelancers|Human Resources|Staffing Firms|Virtual Workforces	30000000	HR Tech	USA	Jackson Square Ventures, Benchmark Capital, Stripes Group	
+Upwork (formerly Elance-oDesk)	Globespan Capital Partners	Crowdsourcing|Curated Web|Employment|Freelancers|Human Resources|Staffing Firms|Virtual Workforces	15000000	HR Tech	USA	Jackson Square Ventures, Benchmark Capital, Stripes Group	
+Upwork (formerly Elance-oDesk)	Globespan Capital Partners	Crowdsourcing|Curated Web|Employment|Freelancers|Human Resources|Staffing Firms|Virtual Workforces	15000000	HR Tech	USA	Jackson Square Ventures, Benchmark Capital, Stripes Group	
+Upwork (formerly Elance-oDesk)	Globespan Capital Partners	Crowdsourcing|Curated Web|Employment|Freelancers|Human Resources|Staffing Firms|Virtual Workforces	6000000	HR Tech	USA	Jackson Square Ventures, Benchmark Capital, Stripes Group	
+Upwork (formerly Elance-oDesk)	Globespan Capital Partners	Crowdsourcing|Curated Web|Employment|Freelancers|Human Resources|Staffing Firms|Virtual Workforces	8000000	HR Tech	USA	Jackson Square Ventures, Benchmark Capital, Stripes Group	
+Upwork (formerly Elance-oDesk)	Jackson Square Ventures	Crowdsourcing|Curated Web|Employment|Freelancers|Human Resources|Staffing Firms|Virtual Workforces	30000000	HR Tech	USA	Jackson Square Ventures, Benchmark Capital, Stripes Group	
+Upwork (formerly Elance-oDesk)	New Enterprise Associates	Crowdsourcing|Curated Web|Employment|Freelancers|Human Resources|Staffing Firms|Virtual Workforces	30000000	HR Tech	USA	Jackson Square Ventures, Benchmark Capital, Stripes Group	
+Upwork (formerly Elance-oDesk)	SV Angel	Crowdsourcing|Curated Web|Employment|Freelancers|Human Resources|Staffing Firms|Virtual Workforces	6000000	HR Tech	USA	Jackson Square Ventures, Benchmark Capital, Stripes Group	
+Upwork (formerly Elance-oDesk)	Sigma Partners	Crowdsourcing|Curated Web|Employment|Freelancers|Human Resources|Staffing Firms|Virtual Workforces	15000000	HR Tech	USA	Jackson Square Ventures, Benchmark Capital, Stripes Group	
+Upwork (formerly Elance-oDesk)	Sigma Partners	Crowdsourcing|Curated Web|Employment|Freelancers|Human Resources|Staffing Firms|Virtual Workforces	15000000	HR Tech	USA	Jackson Square Ventures, Benchmark Capital, Stripes Group	
+Upwork (formerly Elance-oDesk)	Sigma Partners	Crowdsourcing|Curated Web|Employment|Freelancers|Human Resources|Staffing Firms|Virtual Workforces	6000000	HR Tech	USA	Jackson Square Ventures, Benchmark Capital, Stripes Group	
+Upwork (formerly Elance-oDesk)	Sigma Partners	Crowdsourcing|Curated Web|Employment|Freelancers|Human Resources|Staffing Firms|Virtual Workforces	8000000	HR Tech	USA	Jackson Square Ventures, Benchmark Capital, Stripes Group	
+Upwork (formerly Elance-oDesk)	Stripes Group	Crowdsourcing|Curated Web|Employment|Freelancers|Human Resources|Staffing Firms|Virtual Workforces	30000000	HR Tech	USA	Jackson Square Ventures, Benchmark Capital, Stripes Group	
+Upwork (formerly Elance-oDesk)	T. Rowe Price	Crowdsourcing|Curated Web|Employment|Freelancers|Human Resources|Staffing Firms|Virtual Workforces	15000000	HR Tech	USA	Jackson Square Ventures, Benchmark Capital, Stripes Group	
+Upwork (formerly Elance-oDesk)	T. Rowe Price	Crowdsourcing|Curated Web|Employment|Freelancers|Human Resources|Staffing Firms|Virtual Workforces	30000000	HR Tech	USA	Jackson Square Ventures, Benchmark Capital, Stripes Group	
+Wealthfront	Adam D'Angelo	Finance|FinTech|Personal Finance|Stock Exchanges|Wealth Management	20000000	Fintech	USA	Ribbit Capital, Red Swan Ventures, Spark Capital	
+Wealthfront	Ali Pincus	Finance|FinTech|Personal Finance|Stock Exchanges|Wealth Management	35000000	Fintech	USA	Ribbit Capital, Red Swan Ventures, Spark Capital	
+Wealthfront	Alison Rosenthal	Finance|FinTech|Personal Finance|Stock Exchanges|Wealth Management	35000000	Fintech	USA	Ribbit Capital, Red Swan Ventures, Spark Capital	
+Wealthfront	Andy Dunn	Finance|FinTech|Personal Finance|Stock Exchanges|Wealth Management	20000000	Fintech	USA	Ribbit Capital, Red Swan Ventures, Spark Capital	
+Wealthfront	Andy Rachleff	Finance|FinTech|Personal Finance|Stock Exchanges|Wealth Management	3000000	Fintech	USA	Ribbit Capital, Red Swan Ventures, Spark Capital	
+Wealthfront	Ben Horowitz	Finance|FinTech|Personal Finance|Stock Exchanges|Wealth Management	3000000	Fintech	USA	Ribbit Capital, Red Swan Ventures, Spark Capital	
+Wealthfront	Benchmark	Finance|FinTech|Personal Finance|Stock Exchanges|Wealth Management	35000000	Fintech	USA	Ribbit Capital, Red Swan Ventures, Spark Capital	
+Wealthfront	Bruce Dunlevie	Finance|FinTech|Personal Finance|Stock Exchanges|Wealth Management	3000000	Fintech	USA	Ribbit Capital, Red Swan Ventures, Spark Capital	
+Wealthfront	Cipora Herman	Finance|FinTech|Personal Finance|Stock Exchanges|Wealth Management	20000000	Fintech	USA	Ribbit Capital, Red Swan Ventures, Spark Capital	
+Wealthfront	DAG Ventures	Finance|FinTech|Personal Finance|Stock Exchanges|Wealth Management	35000000	Fintech	USA	Ribbit Capital, Red Swan Ventures, Spark Capital	
+Wealthfront	DAG Ventures	Finance|FinTech|Personal Finance|Stock Exchanges|Wealth Management	64000000	Fintech	USA	Ribbit Capital, Red Swan Ventures, Spark Capital	
+Wealthfront	DAG Ventures	Finance|FinTech|Personal Finance|Stock Exchanges|Wealth Management	7500000	Fintech	USA	Ribbit Capital, Red Swan Ventures, Spark Capital	
+Wealthfront	Doug Mackenzie	Finance|FinTech|Personal Finance|Stock Exchanges|Wealth Management	3000000	Fintech	USA	Ribbit Capital, Red Swan Ventures, Spark Capital	
+Wealthfront	Dragoneer Investment Group	Finance|FinTech|Personal Finance|Stock Exchanges|Wealth Management	64000000	Fintech	USA	Ribbit Capital, Red Swan Ventures, Spark Capital	
+Wealthfront	Duff, Ackerman and Goodrich	Finance|FinTech|Personal Finance|Stock Exchanges|Wealth Management	20000000	Fintech	USA	Ribbit Capital, Red Swan Ventures, Spark Capital	
+Wealthfront	Greylock Partners	Finance|FinTech|Personal Finance|Stock Exchanges|Wealth Management	20000000	Fintech	USA	Ribbit Capital, Red Swan Ventures, Spark Capital	
+Wealthfront	Greylock Partners	Finance|FinTech|Personal Finance|Stock Exchanges|Wealth Management	35000000	Fintech	USA	Ribbit Capital, Red Swan Ventures, Spark Capital	
+Wealthfront	Greylock Partners	Finance|FinTech|Personal Finance|Stock Exchanges|Wealth Management	64000000	Fintech	USA	Ribbit Capital, Red Swan Ventures, Spark Capital	
+Wealthfront	Hunter Walk	Finance|FinTech|Personal Finance|Stock Exchanges|Wealth Management	20000000	Fintech	USA	Ribbit Capital, Red Swan Ventures, Spark Capital	
+Wealthfront	Index Ventures	Finance|FinTech|Personal Finance|Stock Exchanges|Wealth Management	20000000	Fintech	USA	Ribbit Capital, Red Swan Ventures, Spark Capital	
+Wealthfront	Index Ventures	Finance|FinTech|Personal Finance|Stock Exchanges|Wealth Management	35000000	Fintech	USA	Ribbit Capital, Red Swan Ventures, Spark Capital	
+Wealthfront	Index Ventures	Finance|FinTech|Personal Finance|Stock Exchanges|Wealth Management	64000000	Fintech	USA	Ribbit Capital, Red Swan Ventures, Spark Capital	
+Wealthfront	Jeff Jordan	Finance|FinTech|Personal Finance|Stock Exchanges|Wealth Management	3000000	Fintech	USA	Ribbit Capital, Red Swan Ventures, Spark Capital	
+Wealthfront	Kevin Compton	Finance|FinTech|Personal Finance|Stock Exchanges|Wealth Management	3000000	Fintech	USA	Ribbit Capital, Red Swan Ventures, Spark Capital	
+Wealthfront	Kevin Rose	Finance|FinTech|Personal Finance|Stock Exchanges|Wealth Management	35000000	Fintech	USA	Ribbit Capital, Red Swan Ventures, Spark Capital	
+Wealthfront	Marc Andreessen	Finance|FinTech|Personal Finance|Stock Exchanges|Wealth Management	3000000	Fintech	USA	Ribbit Capital, Red Swan Ventures, Spark Capital	
+Wealthfront	Marissa Mayer	Finance|FinTech|Personal Finance|Stock Exchanges|Wealth Management	35000000	Fintech	USA	Ribbit Capital, Red Swan Ventures, Spark Capital	
+Wealthfront	Mark Pincus	Finance|FinTech|Personal Finance|Stock Exchanges|Wealth Management	35000000	Fintech	USA	Ribbit Capital, Red Swan Ventures, Spark Capital	
+Wealthfront	Matt Mullenweg	Finance|FinTech|Personal Finance|Stock Exchanges|Wealth Management	20000000	Fintech	USA	Ribbit Capital, Red Swan Ventures, Spark Capital	
+Wealthfront	Michael Schroepfer	Finance|FinTech|Personal Finance|Stock Exchanges|Wealth Management	20000000	Fintech	USA	Ribbit Capital, Red Swan Ventures, Spark Capital	
+Wealthfront	Paul Kedrosky	Finance|FinTech|Personal Finance|Stock Exchanges|Wealth Management	35000000	Fintech	USA	Ribbit Capital, Red Swan Ventures, Spark Capital	
+Wealthfront	Peter Pham	Finance|FinTech|Personal Finance|Stock Exchanges|Wealth Management	20000000	Fintech	USA	Ribbit Capital, Red Swan Ventures, Spark Capital	
+Wealthfront	Ribbit Capital	Finance|FinTech|Personal Finance|Stock Exchanges|Wealth Management	35000000	Fintech	USA	Ribbit Capital, Red Swan Ventures, Spark Capital	
+Wealthfront	Ribbit Capital	Finance|FinTech|Personal Finance|Stock Exchanges|Wealth Management	64000000	Fintech	USA	Ribbit Capital, Red Swan Ventures, Spark Capital	
+Wealthfront	SK Ventures	Finance|FinTech|Personal Finance|Stock Exchanges|Wealth Management	35000000	Fintech	USA	Ribbit Capital, Red Swan Ventures, Spark Capital	
+Wealthfront	Satya Patel	Finance|FinTech|Personal Finance|Stock Exchanges|Wealth Management	20000000	Fintech	USA	Ribbit Capital, Red Swan Ventures, Spark Capital	
+Wealthfront	Science	Finance|FinTech|Personal Finance|Stock Exchanges|Wealth Management	20000000	Fintech	USA	Ribbit Capital, Red Swan Ventures, Spark Capital	
+Wealthfront	Social Capital	Finance|FinTech|Personal Finance|Stock Exchanges|Wealth Management	20000000	Fintech	USA	Ribbit Capital, Red Swan Ventures, Spark Capital	
+Wealthfront	Social Capital	Finance|FinTech|Personal Finance|Stock Exchanges|Wealth Management	35000000	Fintech	USA	Ribbit Capital, Red Swan Ventures, Spark Capital	
+Wealthfront	Social Capital	Finance|FinTech|Personal Finance|Stock Exchanges|Wealth Management	64000000	Fintech	USA	Ribbit Capital, Red Swan Ventures, Spark Capital	
+Wealthfront	Spark Capital	Finance|FinTech|Personal Finance|Stock Exchanges|Wealth Management	64000000	Fintech	USA	Ribbit Capital, Red Swan Ventures, Spark Capital	
+Wealthfront	Timothy Ferriss	Finance|FinTech|Personal Finance|Stock Exchanges|Wealth Management	35000000	Fintech	USA	Ribbit Capital, Red Swan Ventures, Spark Capital	
+Zuora	Benchmark	Billing|SaaS|Software	115000000	Internet Software & Services	USA	Benchmark Capital, Northgate Capital, Tenaya Capital	
+Zuora	Benchmark	Billing|SaaS|Software	15000000	Internet Software & Services	USA	Benchmark Capital, Northgate Capital, Tenaya Capital	
+Zuora	Benchmark	Billing|SaaS|Software	20000000	Internet Software & Services	USA	Benchmark Capital, Northgate Capital, Tenaya Capital	
+Zuora	Benchmark	Billing|SaaS|Software	36000000	Internet Software & Services	USA	Benchmark Capital, Northgate Capital, Tenaya Capital	
+Zuora	Benchmark	Billing|SaaS|Software	50000000	Internet Software & Services	USA	Benchmark Capital, Northgate Capital, Tenaya Capital	
+Zuora	Benchmark	Billing|SaaS|Software	6500000	Internet Software & Services	USA	Benchmark Capital, Northgate Capital, Tenaya Capital	
+Zuora	BlackRock	Billing|SaaS|Software	115000000	Internet Software & Services	USA	Benchmark Capital, Northgate Capital, Tenaya Capital	
+Zuora	Dave Duffield	Billing|SaaS|Software	36000000	Internet Software & Services	USA	Benchmark Capital, Northgate Capital, Tenaya Capital	
+Zuora	Greylock Partners	Billing|SaaS|Software	115000000	Internet Software & Services	USA	Benchmark Capital, Northgate Capital, Tenaya Capital	
+Zuora	Greylock Partners	Billing|SaaS|Software	36000000	Internet Software & Services	USA	Benchmark Capital, Northgate Capital, Tenaya Capital	
+Zuora	Greylock Partners	Billing|SaaS|Software	50000000	Internet Software & Services	USA	Benchmark Capital, Northgate Capital, Tenaya Capital	
+Zuora	Index Ventures	Billing|SaaS|Software	115000000	Internet Software & Services	USA	Benchmark Capital, Northgate Capital, Tenaya Capital	
+Zuora	Index Ventures	Billing|SaaS|Software	36000000	Internet Software & Services	USA	Benchmark Capital, Northgate Capital, Tenaya Capital	
+Zuora	Index Ventures	Billing|SaaS|Software	50000000	Internet Software & Services	USA	Benchmark Capital, Northgate Capital, Tenaya Capital	
+Zuora	Lehman Brothers	Billing|SaaS|Software	15000000	Internet Software & Services	USA	Benchmark Capital, Northgate Capital, Tenaya Capital	
+Zuora	Marc Benioff	Billing|SaaS|Software	15000000	Internet Software & Services	USA	Benchmark Capital, Northgate Capital, Tenaya Capital	
+Zuora	Marc Benioff	Billing|SaaS|Software	20000000	Internet Software & Services	USA	Benchmark Capital, Northgate Capital, Tenaya Capital	
+Zuora	Marc Benioff	Billing|SaaS|Software	36000000	Internet Software & Services	USA	Benchmark Capital, Northgate Capital, Tenaya Capital	
+Zuora	Marc Benioff	Billing|SaaS|Software	50000000	Internet Software & Services	USA	Benchmark Capital, Northgate Capital, Tenaya Capital	
+Zuora	Marc Benioff	Billing|SaaS|Software	6500000	Internet Software & Services	USA	Benchmark Capital, Northgate Capital, Tenaya Capital	
+Zuora	Next World Capital	Billing|SaaS|Software	115000000	Internet Software & Services	USA	Benchmark Capital, Northgate Capital, Tenaya Capital	
+Zuora	Next World Capital	Billing|SaaS|Software	50000000	Internet Software & Services	USA	Benchmark Capital, Northgate Capital, Tenaya Capital	
+Zuora	Northgate Capital	Billing|SaaS|Software	115000000	Internet Software & Services	USA	Benchmark Capital, Northgate Capital, Tenaya Capital	
+Zuora	Northgate Capital	Billing|SaaS|Software	50000000	Internet Software & Services	USA	Benchmark Capital, Northgate Capital, Tenaya Capital	
+Zuora	Passport Capital	Billing|SaaS|Software	115000000	Internet Software & Services	USA	Benchmark Capital, Northgate Capital, Tenaya Capital	
+Zuora	PremjiInvest	Billing|SaaS|Software	115000000	Internet Software & Services	USA	Benchmark Capital, Northgate Capital, Tenaya Capital	
+Zuora	Redpoint Ventures	Billing|SaaS|Software	115000000	Internet Software & Services	USA	Benchmark Capital, Northgate Capital, Tenaya Capital	
+Zuora	Redpoint Ventures	Billing|SaaS|Software	20000000	Internet Software & Services	USA	Benchmark Capital, Northgate Capital, Tenaya Capital	
+Zuora	Redpoint Ventures	Billing|SaaS|Software	36000000	Internet Software & Services	USA	Benchmark Capital, Northgate Capital, Tenaya Capital	
+Zuora	Redpoint Ventures	Billing|SaaS|Software	50000000	Internet Software & Services	USA	Benchmark Capital, Northgate Capital, Tenaya Capital	
+Zuora	Shasta Ventures	Billing|SaaS|Software	115000000	Internet Software & Services	USA	Benchmark Capital, Northgate Capital, Tenaya Capital	
+Zuora	Shasta Ventures	Billing|SaaS|Software	15000000	Internet Software & Services	USA	Benchmark Capital, Northgate Capital, Tenaya Capital	
+Zuora	Shasta Ventures	Billing|SaaS|Software	20000000	Internet Software & Services	USA	Benchmark Capital, Northgate Capital, Tenaya Capital	
+Zuora	Shasta Ventures	Billing|SaaS|Software	36000000	Internet Software & Services	USA	Benchmark Capital, Northgate Capital, Tenaya Capital	
+Zuora	Shasta Ventures	Billing|SaaS|Software	50000000	Internet Software & Services	USA	Benchmark Capital, Northgate Capital, Tenaya Capital	
+Zuora	Tenaya Capital	Billing|SaaS|Software	20000000	Internet Software & Services	USA	Benchmark Capital, Northgate Capital, Tenaya Capital	
+Zuora	Tenaya Capital	Billing|SaaS|Software	36000000	Internet Software & Services	USA	Benchmark Capital, Northgate Capital, Tenaya Capital	
+Zuora	Tenaya Capital	Billing|SaaS|Software	50000000	Internet Software & Services	USA	Benchmark Capital, Northgate Capital, Tenaya Capital	
+Zuora	Vulcan Capital	Billing|SaaS|Software	50000000	Internet Software & Services	USA	Benchmark Capital, Northgate Capital, Tenaya Capital	
+Zuora	Webb Investment Network	Billing|SaaS|Software	20000000	Internet Software & Services	USA	Benchmark Capital, Northgate Capital, Tenaya Capital	
+Zuora	Wellington Management	Billing|SaaS|Software	115000000	Internet Software & Services	USA	Benchmark Capital, Northgate Capital, Tenaya Capital	
