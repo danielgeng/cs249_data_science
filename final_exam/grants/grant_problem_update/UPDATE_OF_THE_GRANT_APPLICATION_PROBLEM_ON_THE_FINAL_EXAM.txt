@@ -1,0 +1,107 @@
+The Grant Application problem on the Final Exam asked for you to predict
+the success of Grant Applications  --- optionally using the knowledge
+in the [APM] text --- and upload your predictions on Kaggle.com.
+
+UNFORTUNATELY, Kaggle no longer permits upload of predictions for this dataset.
+
+AS A RESULT, we are giving you two choices:
+
+(1)  you can go ahead and just upload your Grant success predictions
+     to CCLE (ignoring Kaggle.com).
+     [However:  see the important notices below.]
+
+(2)  you can enter another competition on Kaggle.com ---
+     any one that ends before 5pm next Monday.
+     (In other words, if you enter another competition,
+     you can ignore the Grant Application problem).
+
+  There are two Kaggle competitions that end before 5pm Monday:
+
+  -- Kobe Bryant shot selection    -- ends Monday June 13
+        (https://www.kaggle.com/c/kobe-bryant-shot-selection)
+  -- Expedia hotel booking         -- ends Friday June 10
+        (https://www.kaggle.com/c/expedia-hotel-recommendations)
+
+  For either competition, you must also upload your predictions file
+  (and results from Kaggle) to CCLE.
+
+Since the Kobe Bryant contest ends at 11:59 pm UTC, Monday 13 June 2016
+(which is 4:59pm our time), the exam deadline will be 5pm Monday June 13.
+
+In other words the deadline for the CS249 Final Exam is now 5pm Monday.
+Please choose one of the options above.
+
+
+----------------------------------------------------------------------
+      IMPORTANT!   UPDATE ON THE GRANT APPLICATION PROBLEM
+----------------------------------------------------------------------
+If you choose to continue with the Grant predictions data:
+----------------------------------------------------------------------
+
+1.  WE WILL BE USING "AUC" TO EVALUATE PREDICTIONS FOR THIS DATASET,
+    SINCE BOTH KAGGLE AND [APM] USE IT.
+
+    -- FOR [APM], SEE:  Chapter 11 (which describes AUC), and Ch 12.
+    -- FOR KAGGLE:  https://www.kaggle.com/c/unimelb/details/Evaluation
+
+    SO: YOUR PREDICTIONS SHOULD BE _PROBABILITIES_ INSTEAD OF 0/1 VALUES.
+
+    In R, probabilities can be obtained from the "predict" function:
+
+      glm_predictions = predict.glm( glm_model,  X, type = "response" )
+      svm_predictions = predict.svm( svm_model,  X, probabilities = TRUE )
+
+    With the caret package, this is done inside the "train" function:
+
+      my_model = train(X, y, method = "whatever", ...,  metric = "ROC”, … )
+      my_predictions = my_model$pred
+
+    ‘metric = "ROC”’  causes train() to produce probabilities.
+
+
+2.  You will benefit from reading Chs 12-14 in [APM],
+    which cover quirks of the Grants dataset.
+    For example, the grant applications in 2005-2006 are not
+    good predictors of grants after 2007.
+    So the [APM] book avoids using grants from 2005 and 2006.
+
+    Also, the [APM] book helps to transform the original data
+    into a form that permits analysis. The script  "CreateGrantData.R"
+    in the grants/extra_materials/  directory shows how to extract
+    many useful features.  Basically "CreateGrantData.R" proprocesses
+    the Grant Application data into two tables  (see Section 12.1, p.282):
+
+    --  training   (training data used in [APM] for tuning and final model)
+    --  testing    ("test" data used throughout [APM] for various purposes)
+
+       > ###  inspect the Grant Data analyzed in [APM]
+       > load('grantData.RData')
+       > dim(training)
+       [1] 8190 1882
+       > dim(testing)
+       [1]  518 1882
+
+    The original unimelb_training.csv dataset has 252 features,
+    while the trnsformed [APM] "training" table has 1882 features .
+    For more information see "CreateGrantData.R".
+
+3.  With this in mind, we will let you use the [APM]-extracted data
+    instead of the original dataset.
+
+    Earlier the Final Exam asked you to use the datasets
+
+      unimelb_training.csv     -- the Kaggle training dataset
+      unimelb_test.csv         -- the Kaggle prediction input dataset
+
+    This is still permitted, of course.  However, since the [APM] has more
+    descriptive features, we are permitting you to instead use these datasets:
+
+      APM_training.csv         -- the 'training' dataset in the [APM] book
+      APM_testing.csv          -- the 'testing'  dataset in the [APM] book
+      APM_prediction_input.csv -- prediction input dataset for the Final Exam.
+
+    Either is fine, but the APM_training.csv and APM_testing.csv 
+    data should give better results (since they have many useful features).
+    In case it helps, 'grantData.RData' used in [APM] Chs 12-18 is also included.
+
+    Please upload your predictions from "APM_prediction_input.csv" to CCLE.
