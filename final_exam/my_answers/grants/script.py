@@ -9,7 +9,7 @@ import sys
 TRAINING_FILE = '../../grants/APM_training.tsv'
 TEST_FILE = '../../grants/APM_testing.csv'
 PREDICTION_INPUT = '../../grants/APM_prediction_input.csv'
-OUTPUT_FILE = 'APM_predictions.csv'
+OUTPUT_FILE = 'predictions.csv'
 
 def generate_columns():
     print('generating columns...')
