@@ -14,21 +14,21 @@ CRUNCHBASE_COMPANIES = '../../unicorns/companies.csv'
 CRUNCHBASE_INVESTORS = '../../unicorns/investments.csv'
 
 def display_graph_info(graph):
-    # print(graph.number_of_nodes(), "nodes")
-    # print(graph.number_of_edges(), "edges")
-    # print(nx.number_connected_components(graph), "connected components")
-    # degree_seq = nx.degree(graph)
-    # degrees = sorted(degree_seq.items(), key=itemgetter(1), reverse=True)
-    # print("degree distribution top 10")
-    # for i in range(0, 10): print(degrees[i])
+    print(graph.number_of_nodes(), "nodes")
+    print(graph.number_of_edges(), "edges")
+    print(nx.number_connected_components(graph), "connected components")
+    degree_seq = nx.degree(graph)
+    degrees = sorted(degree_seq.items(), key=itemgetter(1), reverse=True)
+    print("degree distribution top 10")
+    for i in range(0, 10): print(degrees[i])
 
-    # ec = nx.eigenvector_centrality(graph)
-    # ec = sorted(ec.items(), key=itemgetter(1), reverse=True)
-    # print("eigenvector centrality top 10")
-    # for i in range(0, 10): print(ec[i])
+    ec = nx.eigenvector_centrality(graph)
+    ec = sorted(ec.items(), key=itemgetter(1), reverse=True)
+    print("eigenvector centrality top 10")
+    for i in range(0, 10): print(ec[i])
 
-    # largest_component = max(nx.connected_component_subgraphs(graph), key=len)
-    # print("diameter of largest component:", nx.diameter(largest_component))
+    largest_component = max(nx.connected_component_subgraphs(graph), key=len)
+    print("diameter of largest component:", nx.diameter(largest_component))
 
     cl = nx.clustering(graph)
     print("clustering coefficient:", sum(cl.values()) / len(cl))
@@ -43,52 +43,52 @@ def plot_graph(graph):
     plt.show()
 
 def main():
-    # # graph 1
-    # start_time = time.time()
-    # print("processing graph 1")
-    # investor_table = pd.read_csv(INVESTORS, sep='\t', usecols=[0,1]) # only get useful columns
-    # # print(investor_table.head())
-    # companies = set()
-    # investors = dict()
-    # for _, row in investor_table.iterrows():
-    #     companies.add(row['Company'])
-    #     if row['Investor'] not in investors:
-    #         investors[row['Investor']] = set()
-    #     investors[row['Investor']].add(row['Company'])
-    # graph1 = nx.Graph()
-    # graph1.add_nodes_from(companies)
-    # for comps in investors.values():
-    #     if len(comps) > 1:
-    #         for c in comps:
-    #             for c2 in comps:
-    #                 if(c != c2):
-    #                     graph1.add_edge(c, c2)
+    # graph 1
+    start_time = time.time()
+    print("processing graph 1")
+    investor_table = pd.read_csv(INVESTORS, sep='\t', usecols=[0,1]) # only get useful columns
+    # print(investor_table.head())
+    companies = set()
+    investors = dict()
+    for _, row in investor_table.iterrows():
+        companies.add(row['Company'])
+        if row['Investor'] not in investors:
+            investors[row['Investor']] = set()
+        investors[row['Investor']].add(row['Company'])
+    graph1 = nx.Graph()
+    graph1.add_nodes_from(companies)
+    for comps in investors.values():
+        if len(comps) > 1:
+            for c in comps:
+                for c2 in comps:
+                    if(c != c2):
+                        graph1.add_edge(c, c2)
 
-    # display_graph_info(graph1)
-    # print("graph 1 time taken:", time.time()-start_time, "seconds")
-    # plot_graph(graph1)
+    display_graph_info(graph1)
+    print("graph 1 time taken:", time.time()-start_time, "seconds")
+    plot_graph(graph1)
 
-    # # graph 2
-    # start_time = time.time()
-    # print("processing graph 2")
-    # future_investor_table = pd.read_csv(FUTURE_INVESTORS, sep='\t', usecols=[0,1])
-    # for _, row in future_investor_table.iterrows():
-    #     companies.add(row['Company'])
-    #     if row['Investor'] not in investors:
-    #         investors[row['Investor']] = set()
-    #     investors[row['Investor']].add(row['Company'])
-    # graph2 = nx.Graph()
-    # graph2.add_nodes_from(companies)
-    # for comps in investors.values():
-    #     if len(comps) > 1:
-    #         for c in comps:
-    #             for c2 in comps:
-    #                 if(c != c2):
-    #                     graph2.add_edge(c, c2)
+    # graph 2
+    start_time = time.time()
+    print("processing graph 2")
+    future_investor_table = pd.read_csv(FUTURE_INVESTORS, sep='\t', usecols=[0,1])
+    for _, row in future_investor_table.iterrows():
+        companies.add(row['Company'])
+        if row['Investor'] not in investors:
+            investors[row['Investor']] = set()
+        investors[row['Investor']].add(row['Company'])
+    graph2 = nx.Graph()
+    graph2.add_nodes_from(companies)
+    for comps in investors.values():
+        if len(comps) > 1:
+            for c in comps:
+                for c2 in comps:
+                    if(c != c2):
+                        graph2.add_edge(c, c2)
 
-    # display_graph_info(graph2)
-    # print("graph 2 time taken:", time.time()-start_time, "seconds")
-    # plot_graph(graph2)
+    display_graph_info(graph2)
+    print("graph 2 time taken:", time.time()-start_time, "seconds")
+    plot_graph(graph2)
 
     # graph 3
     start_time = time.time()
