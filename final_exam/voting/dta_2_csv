@@ -1,3 +1,3 @@
 #!/bin/bash
-R="/opt/local/bin/R"
+R="/Users/admin/anaconda3/bin/R"
 echo "library(foreign); f=\"$1\"; T = read.dta(f); write.csv(T, file=sub('.dta','.csv',f), quote=FALSE, row.names=FALSE); q('no')"  | $R --vanilla
