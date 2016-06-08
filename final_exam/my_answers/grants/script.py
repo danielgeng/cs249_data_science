@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-from sklearn.ensemble import RandomForestClassifier
+from sklearn.ensemble import RandomForestClassifier, RandomForestRegressor
 import pandas as pd
 import numpy as np
 import time
@@ -66,10 +66,10 @@ def main(argv):
     pred_feats, _ = get_data(PREDICTION_INPUT, cols_used)
 
     print('generating predictions...')
-    preds = rf.predict(pred_feats).astype(str)
-    for i in range(preds.shape[0]):
-        if preds[i] == '1': preds[i] = 'successful'
-        else: preds[i] = 'unsuccessful'
+    preds = rf.predict_proba(pred_feats).astype(str)[:,1]
+    # for i in range(preds.shape[0]):
+    #     if preds[i] == '1': preds[i] = 'successful'
+    #     else: preds[i] = 'unsuccessful'
     np.savetxt(OUTPUT_FILE, preds, fmt="%s", newline="\n")
 
     print('time taken:', time.time()-start_time, 'seconds')
