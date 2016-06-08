@@ -20,7 +20,9 @@ the Senate, so Republicans felt that they were forced to vote adversely to the p
 
 A simple measure and visualization of polarization would be the kurtosis subtracted from 10. 
 Initially, I used the multiplicative inverse of kurtosis, but I felt that subtracting from 10
-provided results that were easier to visualize.
+provided results that were easier to visualize. The same polarization measure was calculated on
+Democrat-only and Republican-only data; as expected, these values were much lower than the total
+polarization value.
 
 The roll call data codes are as follows (voteview.com):
 0 - Not a member
@@ -36,3 +38,5 @@ The roll call data codes are as follows (voteview.com):
 Only 1 through 6 seemed meaningful, so the rest of the codes were mapped to NaN for the kurtosis 
 calculation. However, this produced different results than the original data and I could not make
 intuitive sense of it based on the historical legislation, so both polarization timelines are given.
+Also, there may be political reasons why senators do not vote, so it is unclear how non-votes should
+be interpreted.
